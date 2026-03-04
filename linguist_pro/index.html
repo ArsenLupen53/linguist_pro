@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linguist Pro — İngilizce Kelime Uygulaması</title>
+    <meta name="description"
+        content="İngilizce kelime öğrenmek için modern ve etkileşimli uygulama. A1'den C2'ye tüm seviyelerde kelime pratiği yapın.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="app">
+        <!-- Animated Background -->
+        <div class="bg-orbs">
+            <div class="orb orb-1"></div>
+            <div class="orb orb-2"></div>
+            <div class="orb orb-3"></div>
+        </div>
+
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <span class="logo-icon">📚</span>
+                <h1>Linguist<span class="accent">Pro</span></h1>
+            </div>
+            <p class="tagline">İngilizce kelime haznenizi güçlendirin</p>
+        </header>
+
+        <!-- Controls -->
+        <section class="controls">
+            <div class="control-group">
+                <label class="control-label">Seviye Seçin</label>
+                <div class="level-buttons" id="levelButtons">
+                    <button class="level-btn" data-level="A1">A1</button>
+                    <button class="level-btn" data-level="A2">A2</button>
+                    <button class="level-btn active" data-level="B1">B1</button>
+                    <button class="level-btn" data-level="B2">B2</button>
+                    <button class="level-btn" data-level="C1">C1</button>
+                    <button class="level-btn" data-level="C2">C2</button>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label" for="wordCount">Kelime Sayısı</label>
+                <div class="count-input-wrapper">
+                    <button class="count-btn" id="decreaseBtn">−</button>
+                    <input type="number" id="wordCount" min="1" max="20" value="5" class="count-input">
+                    <button class="count-btn" id="increaseBtn">+</button>
+                </div>
+            </div>
+
+            <button class="fetch-btn" id="fetchBtn">
+                <span class="fetch-btn-icon">✨</span>
+                Kelimeleri Getir
+            </button>
+        </section>
+
+        <!-- Word Cards Container -->
+        <section class="words-container" id="wordsContainer">
+            <!-- Cards will be rendered here by JS -->
+        </section>
+
+        <!-- Empty State -->
+        <div class="empty-state" id="emptyState">
+            <div class="empty-icon">🎯</div>
+            <p>Seviye seçip kelime sayısını belirleyin,<br>ardından <strong>"Kelimeleri Getir"</strong> butonuna basın.
+            </p>
+        </div>
+
+        <!-- Loading State -->
+        <div class="loading-state hidden" id="loadingState">
+            <div class="spinner"></div>
+            <p>Kelimeler yükleniyor...</p>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Linguist Pro &copy; 2026 — Kelime haznenizi her gün büyütün 🚀</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,2534 @@
+{
+  "A1": [
+    {
+      "word": "apple",
+      "meaning": "elma",
+      "definition": "A round fruit with red or green skin",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈæp.əl/",
+      "examples": [
+        "I eat an apple every day.",
+        "She bought red apples from the store.",
+        "Apple juice is my favorite drink."
+      ]
+    },
+    {
+      "word": "book",
+      "meaning": "kitap",
+      "definition": "A written or printed work consisting of pages",
+      "partOfSpeech": "noun",
+      "pronunciation": "/bʊk/",
+      "examples": [
+        "I read a book before bed.",
+        "This book is very interesting.",
+        "She gave me a book for my birthday."
+      ]
+    },
+    {
+      "word": "cat",
+      "meaning": "kedi",
+      "definition": "A small domesticated carnivorous mammal",
+      "partOfSpeech": "noun",
+      "pronunciation": "/kæt/",
+      "examples": [
+        "The cat is sleeping on the sofa.",
+        "My cat loves playing with yarn.",
+        "We adopted a cat from the shelter."
+      ]
+    },
+    {
+      "word": "dog",
+      "meaning": "köpek",
+      "definition": "A domesticated carnivorous mammal",
+      "partOfSpeech": "noun",
+      "pronunciation": "/dɒɡ/",
+      "examples": [
+        "The dog is playing in the garden.",
+        "My dog likes to fetch the ball.",
+        "She walks her dog every morning."
+      ]
+    },
+    {
+      "word": "eat",
+      "meaning": "yemek",
+      "definition": "To put food into the mouth and chew and swallow it",
+      "partOfSpeech": "verb",
+      "pronunciation": "/iːt/",
+      "examples": [
+        "I eat breakfast at 8 o'clock.",
+        "We eat dinner together every evening.",
+        "He likes to eat pizza."
+      ]
+    },
+    {
+      "word": "family",
+      "meaning": "aile",
+      "definition": "A group of people related to each other",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈfæm.əl.i/",
+      "examples": [
+        "My family is very big.",
+        "We visit our family on holidays.",
+        "Family is important to me."
+      ]
+    },
+    {
+      "word": "good",
+      "meaning": "iyi",
+      "definition": "Of a high quality or standard",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɡʊd/",
+      "examples": [
+        "This is a very good movie.",
+        "She is a good student.",
+        "The food tastes good."
+      ]
+    },
+    {
+      "word": "house",
+      "meaning": "ev",
+      "definition": "A building for people to live in",
+      "partOfSpeech": "noun",
+      "pronunciation": "/haʊs/",
+      "examples": [
+        "We live in a big house.",
+        "The house has three bedrooms.",
+        "They bought a new house last year."
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "su",
+      "definition": "A clear liquid with no color or taste",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈwɔː.tər/",
+      "examples": [
+        "I drink a lot of water.",
+        "The water is very cold.",
+        "Can I have a glass of water?"
+      ]
+    },
+    {
+      "word": "happy",
+      "meaning": "mutlu",
+      "definition": "Feeling or showing pleasure",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈhæp.i/",
+      "examples": [
+        "I am very happy today.",
+        "She looks happy in the photo.",
+        "The children are happy playing outside."
+      ]
+    },
+    {
+      "word": "school",
+      "meaning": "okul",
+      "definition": "A place where children go to learn",
+      "partOfSpeech": "noun",
+      "pronunciation": "/skuːl/",
+      "examples": [
+        "I go to school every day.",
+        "My school is near my house.",
+        "School starts at nine o'clock."
+      ]
+    },
+    {
+      "word": "friend",
+      "meaning": "arkadaş",
+      "definition": "A person you know well and like",
+      "partOfSpeech": "noun",
+      "pronunciation": "/frend/",
+      "examples": [
+        "She is my best friend.",
+        "I made a new friend today.",
+        "Friends help each other."
+      ]
+    },
+    {
+      "word": "big",
+      "meaning": "büyük",
+      "definition": "Of considerable size or extent",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/bɪɡ/",
+      "examples": [
+        "That is a big tree.",
+        "He has a big smile.",
+        "We need a big table for dinner."
+      ]
+    },
+    {
+      "word": "small",
+      "meaning": "küçük",
+      "definition": "Of a size that is less than normal",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/smɔːl/",
+      "examples": [
+        "The box is very small.",
+        "She has a small dog.",
+        "We live in a small town."
+      ]
+    },
+    {
+      "word": "run",
+      "meaning": "koşmak",
+      "definition": "To move using your legs faster than walking",
+      "partOfSpeech": "verb",
+      "pronunciation": "/rʌn/",
+      "examples": [
+        "I run every morning.",
+        "The children run in the park.",
+        "He can run very fast."
+      ]
+    },
+    {
+      "word": "work",
+      "meaning": "çalışmak",
+      "definition": "Activity involving effort done to achieve a result",
+      "partOfSpeech": "verb",
+      "pronunciation": "/wɜːk/",
+      "examples": [
+        "I work in an office.",
+        "She works very hard.",
+        "We work from Monday to Friday."
+      ]
+    },
+    {
+      "word": "car",
+      "meaning": "araba",
+      "definition": "A road vehicle with an engine and four wheels",
+      "partOfSpeech": "noun",
+      "pronunciation": "/kɑːr/",
+      "examples": [
+        "He drives a red car.",
+        "The car is parked outside.",
+        "We went by car to the beach."
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "zaman",
+      "definition": "The indefinite continued progress of existence",
+      "partOfSpeech": "noun",
+      "pronunciation": "/taɪm/",
+      "examples": [
+        "What time is it?",
+        "I don't have time today.",
+        "Time flies when you're having fun."
+      ]
+    },
+    {
+      "word": "new",
+      "meaning": "yeni",
+      "definition": "Recently made or discovered",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/njuː/",
+      "examples": [
+        "I bought a new phone.",
+        "She started a new job.",
+        "This is a new restaurant."
+      ]
+    },
+    {
+      "word": "old",
+      "meaning": "eski",
+      "definition": "Having lived for a long time",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/oʊld/",
+      "examples": [
+        "My grandmother is very old.",
+        "This is an old building.",
+        "He sold his old car."
+      ]
+    },
+    {
+      "word": "mother",
+      "meaning": "anne",
+      "definition": "A female parent",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈmʌð.ər/",
+      "examples": [
+        "My mother makes great food.",
+        "She became a mother last year.",
+        "I call my mother every day."
+      ]
+    },
+    {
+      "word": "father",
+      "meaning": "baba",
+      "definition": "A male parent",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈfɑː.ðər/",
+      "examples": [
+        "My father works in a hospital.",
+        "He is a good father.",
+        "Father and son went fishing."
+      ]
+    },
+    {
+      "word": "beautiful",
+      "meaning": "güzel",
+      "definition": "Pleasing the senses or mind aesthetically",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈbjuː.tɪ.fəl/",
+      "examples": [
+        "What a beautiful day!",
+        "She has a beautiful voice.",
+        "The garden is beautiful in spring."
+      ]
+    },
+    {
+      "word": "help",
+      "meaning": "yardım etmek",
+      "definition": "To make it easier for someone to do something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/help/",
+      "examples": [
+        "Can you help me please?",
+        "She always helps her friends.",
+        "I need help with my homework."
+      ]
+    },
+    {
+      "word": "open",
+      "meaning": "açmak",
+      "definition": "To move so as to allow access",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈoʊ.pən/",
+      "examples": [
+        "Please open the door.",
+        "She opened her book.",
+        "The shop opens at nine."
+      ]
+    },
+    {
+      "word": "close",
+      "meaning": "kapatmak",
+      "definition": "To move so as to cover an opening",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kloʊz/",
+      "examples": [
+        "Please close the window.",
+        "He closed his eyes.",
+        "The store closes at eight."
+      ]
+    },
+    {
+      "word": "music",
+      "meaning": "müzik",
+      "definition": "Vocal or instrumental sounds combined",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈmjuː.zɪk/",
+      "examples": [
+        "I love listening to music.",
+        "She plays beautiful music.",
+        "Music makes me happy."
+      ]
+    },
+    {
+      "word": "food",
+      "meaning": "yiyecek",
+      "definition": "Any substance consumed to provide nutrition",
+      "partOfSpeech": "noun",
+      "pronunciation": "/fuːd/",
+      "examples": [
+        "The food here is delicious.",
+        "We need to buy food.",
+        "Italian food is my favorite."
+      ]
+    },
+    {
+      "word": "child",
+      "meaning": "çocuk",
+      "definition": "A young human being",
+      "partOfSpeech": "noun",
+      "pronunciation": "/tʃaɪld/",
+      "examples": [
+        "The child is playing outside.",
+        "Every child needs love.",
+        "She is a happy child."
+      ]
+    },
+    {
+      "word": "cold",
+      "meaning": "soğuk",
+      "definition": "Of or at a low temperature",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/koʊld/",
+      "examples": [
+        "It is very cold today.",
+        "I drink cold water.",
+        "She feels cold in winter."
+      ]
+    },
+    {
+      "word": "hot",
+      "meaning": "sıcak",
+      "definition": "Having a high temperature",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/hɒt/",
+      "examples": [
+        "The coffee is too hot.",
+        "It is very hot in summer.",
+        "Be careful, the plate is hot."
+      ]
+    },
+    {
+      "word": "sleep",
+      "meaning": "uyumak",
+      "definition": "A condition of body and mind in which the nervous system is inactive",
+      "partOfSpeech": "verb",
+      "pronunciation": "/sliːp/",
+      "examples": [
+        "I sleep eight hours a night.",
+        "The baby is sleeping.",
+        "I couldn't sleep last night."
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "sabah",
+      "definition": "The period of time between midnight and noon",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈmɔːr.nɪŋ/",
+      "examples": [
+        "Good morning!",
+        "I exercise every morning.",
+        "The mornings are cold in winter."
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "gece",
+      "definition": "The period of darkness between sunset and sunrise",
+      "partOfSpeech": "noun",
+      "pronunciation": "/naɪt/",
+      "examples": [
+        "Good night!",
+        "The stars are bright at night.",
+        "I study at night."
+      ]
+    },
+    {
+      "word": "color",
+      "meaning": "renk",
+      "definition": "The property of producing different sensations on the eye",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈkʌl.ər/",
+      "examples": [
+        "What is your favorite color?",
+        "The sky is blue in color.",
+        "She painted the room a warm color."
+      ]
+    }
+  ],
+  "A2": [
+    {
+      "word": "believe",
+      "meaning": "inanmak",
+      "definition": "To accept that something is true",
+      "partOfSpeech": "verb",
+      "pronunciation": "/bɪˈliːv/",
+      "examples": [
+        "I believe you are right.",
+        "She believes in hard work.",
+        "Do you believe this story?"
+      ]
+    },
+    {
+      "word": "travel",
+      "meaning": "seyahat etmek",
+      "definition": "To go from one place to another",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈtræv.əl/",
+      "examples": [
+        "I love to travel.",
+        "She travels for work.",
+        "We traveled to Japan last summer."
+      ]
+    },
+    {
+      "word": "remember",
+      "meaning": "hatırlamak",
+      "definition": "To have in or be able to bring to one's mind",
+      "partOfSpeech": "verb",
+      "pronunciation": "/rɪˈmem.bər/",
+      "examples": [
+        "I remember my first day at school.",
+        "Please remember to call me.",
+        "She remembers everything."
+      ]
+    },
+    {
+      "word": "different",
+      "meaning": "farklı",
+      "definition": "Not the same as another",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈdɪf.ər.ənt/",
+      "examples": [
+        "We have different opinions.",
+        "Each person is different.",
+        "This cake tastes different."
+      ]
+    },
+    {
+      "word": "important",
+      "meaning": "önemli",
+      "definition": "Of great significance or value",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪmˈpɔːr.tənt/",
+      "examples": [
+        "Education is very important.",
+        "This is an important meeting.",
+        "It's important to eat healthy."
+      ]
+    },
+    {
+      "word": "sometimes",
+      "meaning": "bazen",
+      "definition": "Occasionally, rather than all of the time",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ˈsʌm.taɪmz/",
+      "examples": [
+        "I sometimes go for a walk.",
+        "She sometimes forgets her keys.",
+        "Sometimes it rains in summer."
+      ]
+    },
+    {
+      "word": "between",
+      "meaning": "arasında",
+      "definition": "In or along the space separating two objects",
+      "partOfSpeech": "preposition",
+      "pronunciation": "/bɪˈtwiːn/",
+      "examples": [
+        "The park is between the school and the library.",
+        "Choose between these two options.",
+        "There is a wall between the houses."
+      ]
+    },
+    {
+      "word": "laugh",
+      "meaning": "gülmek",
+      "definition": "To make sounds and movements of the face",
+      "partOfSpeech": "verb",
+      "pronunciation": "/lɑːf/",
+      "examples": [
+        "She always makes me laugh.",
+        "The children laughed at the clown.",
+        "Don't laugh at him."
+      ]
+    },
+    {
+      "word": "comfortable",
+      "meaning": "rahat",
+      "definition": "Providing physical ease and relaxation",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈkʌmf.tə.bəl/",
+      "examples": [
+        "This chair is very comfortable.",
+        "She feels comfortable at home.",
+        "Wear comfortable shoes for the trip."
+      ]
+    },
+    {
+      "word": "experience",
+      "meaning": "deneyim",
+      "definition": "Practical contact with events or activities",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ɪkˈspɪr.i.əns/",
+      "examples": [
+        "She has a lot of experience.",
+        "It was a great experience.",
+        "Work experience is very important."
+      ]
+    },
+    {
+      "word": "understand",
+      "meaning": "anlamak",
+      "definition": "To perceive the intended meaning",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˌʌn.dərˈstænd/",
+      "examples": [
+        "I understand the problem.",
+        "Do you understand me?",
+        "She understands three languages."
+      ]
+    },
+    {
+      "word": "dangerous",
+      "meaning": "tehlikeli",
+      "definition": "Able or likely to cause harm or injury",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈdeɪn.dʒər.əs/",
+      "examples": [
+        "Swimming here is dangerous.",
+        "That is a dangerous road.",
+        "Some animals are dangerous."
+      ]
+    },
+    {
+      "word": "happen",
+      "meaning": "olmak",
+      "definition": "To take place or occur",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈhæp.ən/",
+      "examples": [
+        "What happened yesterday?",
+        "Accidents can happen anytime.",
+        "Something strange happened to me."
+      ]
+    },
+    {
+      "word": "improve",
+      "meaning": "geliştirmek",
+      "definition": "To make or become better",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪmˈpruːv/",
+      "examples": [
+        "I want to improve my English.",
+        "The weather will improve tomorrow.",
+        "She improved her grades."
+      ]
+    },
+    {
+      "word": "during",
+      "meaning": "sırasında",
+      "definition": "Throughout the course of",
+      "partOfSpeech": "preposition",
+      "pronunciation": "/ˈdʊr.ɪŋ/",
+      "examples": [
+        "I fell asleep during the movie.",
+        "She works during the day.",
+        "During the summer, we go swimming."
+      ]
+    },
+    {
+      "word": "interesting",
+      "meaning": "ilginç",
+      "definition": "Arousing curiosity or interest",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈɪn.trəs.tɪŋ/",
+      "examples": [
+        "This is an interesting book.",
+        "She told me an interesting story.",
+        "The museum was very interesting."
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "hava durumu",
+      "definition": "The state of the atmosphere at a place",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈweð.ər/",
+      "examples": [
+        "The weather is nice today.",
+        "What's the weather like?",
+        "Bad weather is expected tomorrow."
+      ]
+    },
+    {
+      "word": "enough",
+      "meaning": "yeterli",
+      "definition": "As much or as many as required",
+      "partOfSpeech": "determiner",
+      "pronunciation": "/ɪˈnʌf/",
+      "examples": [
+        "We have enough food.",
+        "Is this big enough?",
+        "She didn't study enough."
+      ]
+    },
+    {
+      "word": "practice",
+      "meaning": "pratik yapmak",
+      "definition": "To perform an activity repeatedly to improve",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈpræk.tɪs/",
+      "examples": [
+        "Practice makes perfect.",
+        "She practices piano every day.",
+        "I need to practice my speaking."
+      ]
+    },
+    {
+      "word": "mistake",
+      "meaning": "hata",
+      "definition": "An action or judgment that is wrong",
+      "partOfSpeech": "noun",
+      "pronunciation": "/mɪˈsteɪk/",
+      "examples": [
+        "Everyone makes mistakes.",
+        "I made a mistake on the test.",
+        "Learn from your mistakes."
+      ]
+    },
+    {
+      "word": "language",
+      "meaning": "dil",
+      "definition": "A system of communication used by a country",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈlæŋ.ɡwɪdʒ/",
+      "examples": [
+        "She speaks three languages.",
+        "English is a global language.",
+        "Learning a language takes time."
+      ]
+    },
+    {
+      "word": "explain",
+      "meaning": "açıklamak",
+      "definition": "To make something clear or easy to understand",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪkˈspleɪn/",
+      "examples": [
+        "Can you explain this to me?",
+        "She explained the rules clearly.",
+        "Let me explain the situation."
+      ]
+    },
+    {
+      "word": "excited",
+      "meaning": "heyecanlı",
+      "definition": "Very enthusiastic and eager",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪkˈsaɪ.tɪd/",
+      "examples": [
+        "I'm excited about the trip.",
+        "The children are excited.",
+        "She was excited to see her friends."
+      ]
+    },
+    {
+      "word": "prepare",
+      "meaning": "hazırlamak",
+      "definition": "To make ready for use or consideration",
+      "partOfSpeech": "verb",
+      "pronunciation": "/prɪˈper/",
+      "examples": [
+        "She prepared dinner for us.",
+        "I need to prepare for the exam.",
+        "Prepare your documents in advance."
+      ]
+    },
+    {
+      "word": "develop",
+      "meaning": "geliştirmek",
+      "definition": "To grow or cause to grow more advanced",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈvel.əp/",
+      "examples": [
+        "She wants to develop her skills.",
+        "The city has developed rapidly.",
+        "We need to develop a new plan."
+      ]
+    },
+    {
+      "word": "perhaps",
+      "meaning": "belki",
+      "definition": "Used to express uncertainty or possibility",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/pərˈhæps/",
+      "examples": [
+        "Perhaps we should wait.",
+        "Perhaps it will rain later.",
+        "She is perhaps the best singer here."
+      ]
+    },
+    {
+      "word": "abroad",
+      "meaning": "yurt dışında",
+      "definition": "In or to a foreign country",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/əˈbrɔːd/",
+      "examples": [
+        "She studied abroad for a year.",
+        "Have you ever been abroad?",
+        "Many students want to go abroad."
+      ]
+    },
+    {
+      "word": "available",
+      "meaning": "müsait",
+      "definition": "Able to be used or obtained",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/əˈveɪ.lə.bəl/",
+      "examples": [
+        "Is this seat available?",
+        "She is not available right now.",
+        "Tickets are available online."
+      ]
+    },
+    {
+      "word": "choice",
+      "meaning": "seçim",
+      "definition": "An act of selecting between alternatives",
+      "partOfSpeech": "noun",
+      "pronunciation": "/tʃɔɪs/",
+      "examples": [
+        "You have three choices.",
+        "It was a difficult choice.",
+        "She made the right choice."
+      ]
+    },
+    {
+      "word": "popular",
+      "meaning": "popüler",
+      "definition": "Liked or admired by many people",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈpɒp.jə.lər/",
+      "examples": [
+        "This song is very popular.",
+        "She is popular at school.",
+        "Pizza is a popular food worldwide."
+      ]
+    },
+    {
+      "word": "conversation",
+      "meaning": "konuşma",
+      "definition": "An informal talk between people",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌkɒn.vərˈseɪ.ʃən/",
+      "examples": [
+        "We had an interesting conversation.",
+        "She started a conversation with him.",
+        "Good conversations make friendships stronger."
+      ]
+    },
+    {
+      "word": "although",
+      "meaning": "rağmen",
+      "definition": "In spite of the fact that",
+      "partOfSpeech": "conjunction",
+      "pronunciation": "/ɔːlˈðoʊ/",
+      "examples": [
+        "Although it rained, we went out.",
+        "She smiled although she was tired.",
+        "Although he is young, he is mature."
+      ]
+    },
+    {
+      "word": "adventure",
+      "meaning": "macera",
+      "definition": "An unusual and exciting experience",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ədˈven.tʃər/",
+      "examples": [
+        "Life is an adventure.",
+        "She loves adventure sports.",
+        "Our trip was a great adventure."
+      ]
+    },
+    {
+      "word": "nervous",
+      "meaning": "gergin",
+      "definition": "Easily agitated or apprehensive",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈnɜː.vəs/",
+      "examples": [
+        "I feel nervous before exams.",
+        "She was nervous about the interview.",
+        "Don't be nervous, you'll do great."
+      ]
+    },
+    {
+      "word": "recently",
+      "meaning": "son zamanlarda",
+      "definition": "Not long ago",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ˈriː.sənt.li/",
+      "examples": [
+        "I recently started a new job.",
+        "She recently moved to London.",
+        "Have you traveled recently?"
+      ]
+    }
+  ],
+  "B1": [
+    {
+      "word": "achieve",
+      "meaning": "başarmak",
+      "definition": "To successfully reach a desired objective",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈtʃiːv/",
+      "examples": [
+        "She achieved her goals through hard work.",
+        "It takes dedication to achieve success.",
+        "He achieved the highest score in class."
+      ]
+    },
+    {
+      "word": "advantage",
+      "meaning": "avantaj",
+      "definition": "A condition giving a greater chance of success",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ədˈvæn.tɪdʒ/",
+      "examples": [
+        "Being bilingual is a great advantage.",
+        "We should take advantage of this opportunity.",
+        "He has an advantage over other candidates."
+      ]
+    },
+    {
+      "word": "concentrate",
+      "meaning": "konsantre olmak",
+      "definition": "To focus all attention on a particular activity",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈkɒn.sən.treɪt/",
+      "examples": [
+        "I can't concentrate with this noise.",
+        "She concentrated on her studies.",
+        "You need to concentrate harder."
+      ]
+    },
+    {
+      "word": "competition",
+      "meaning": "yarışma",
+      "definition": "An event in which people compete",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌkɒm.pəˈtɪʃ.ən/",
+      "examples": [
+        "She won the competition easily.",
+        "There is a lot of competition for the job.",
+        "The competition starts next week."
+      ]
+    },
+    {
+      "word": "definitely",
+      "meaning": "kesinlikle",
+      "definition": "Without any doubt",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ˈdef.ɪ.nət.li/",
+      "examples": [
+        "I will definitely be there.",
+        "She is definitely the best candidate.",
+        "This is definitely worth trying."
+      ]
+    },
+    {
+      "word": "disappointed",
+      "meaning": "hayal kırıklığına uğramış",
+      "definition": "Sad because something was not as good as expected",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌdɪs.əˈpɔɪn.tɪd/",
+      "examples": [
+        "I was disappointed with the result.",
+        "She felt disappointed after the interview.",
+        "Don't be disappointed, try again."
+      ]
+    },
+    {
+      "word": "encourage",
+      "meaning": "teşvik etmek",
+      "definition": "To give support, confidence, or hope",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪnˈkʌr.ɪdʒ/",
+      "examples": [
+        "Teachers should encourage their students.",
+        "She encouraged me to apply for the job.",
+        "We need to encourage healthy habits."
+      ]
+    },
+    {
+      "word": "environment",
+      "meaning": "çevre",
+      "definition": "The surroundings or conditions in which a person lives",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ɪnˈvaɪ.rən.mənt/",
+      "examples": [
+        "We must protect the environment.",
+        "The work environment is very positive.",
+        "Changes in the environment affect wildlife."
+      ]
+    },
+    {
+      "word": "eventually",
+      "meaning": "sonunda",
+      "definition": "In the end",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ɪˈven.tʃu.ə.li/",
+      "examples": [
+        "She eventually found her keys.",
+        "Eventually, he agreed with us.",
+        "I will eventually learn to cook well."
+      ]
+    },
+    {
+      "word": "frequently",
+      "meaning": "sıklıkla",
+      "definition": "Regularly or habitually; often",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ˈfriː.kwənt.li/",
+      "examples": [
+        "She frequently visits her parents.",
+        "Buses run frequently during the day.",
+        "I frequently forget my password."
+      ]
+    },
+    {
+      "word": "generous",
+      "meaning": "cömert",
+      "definition": "Willing to give more of something",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈdʒen.ər.əs/",
+      "examples": [
+        "He is very generous with his time.",
+        "She made a generous donation.",
+        "They are generous people."
+      ]
+    },
+    {
+      "word": "gradually",
+      "meaning": "yavaş yavaş",
+      "definition": "In a gradual way; slowly",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ˈɡrædʒ.u.ə.li/",
+      "examples": [
+        "The weather gradually improved.",
+        "She gradually got better at chess.",
+        "Prices have gradually increased."
+      ]
+    },
+    {
+      "word": "hesitate",
+      "meaning": "tereddüt etmek",
+      "definition": "To pause before doing something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈhez.ɪ.teɪt/",
+      "examples": [
+        "Don't hesitate to ask for help.",
+        "She hesitated before answering.",
+        "He never hesitates to share his opinion."
+      ]
+    },
+    {
+      "word": "influence",
+      "meaning": "etki",
+      "definition": "The capacity to have an effect on character or behavior",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈɪn.flu.əns/",
+      "examples": [
+        "Music has a big influence on my mood.",
+        "She is a positive influence on her team.",
+        "Social media has a huge influence on teenagers."
+      ]
+    },
+    {
+      "word": "opportunity",
+      "meaning": "fırsat",
+      "definition": "A set of circumstances making something possible",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌɒp.ərˈtjuː.nə.ti/",
+      "examples": [
+        "This is a great opportunity for growth.",
+        "Don't miss this opportunity.",
+        "She was given the opportunity to study abroad."
+      ]
+    },
+    {
+      "word": "ordinary",
+      "meaning": "sıradan",
+      "definition": "With no special or distinctive features",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈɔːr.dən.er.i/",
+      "examples": [
+        "It was just an ordinary day.",
+        "She is no ordinary teacher.",
+        "He lives an ordinary life."
+      ]
+    },
+    {
+      "word": "patient",
+      "meaning": "sabırlı",
+      "definition": "Able to accept delays without becoming annoyed",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈpeɪ.ʃənt/",
+      "examples": [
+        "Please be patient with me.",
+        "Good teachers are patient.",
+        "She waited patiently for her turn."
+      ]
+    },
+    {
+      "word": "persuade",
+      "meaning": "ikna etmek",
+      "definition": "To cause someone to do something through reasoning",
+      "partOfSpeech": "verb",
+      "pronunciation": "/pərˈsweɪd/",
+      "examples": [
+        "I tried to persuade him to stay.",
+        "She persuaded me to try the food.",
+        "It's hard to persuade him to change his mind."
+      ]
+    },
+    {
+      "word": "precious",
+      "meaning": "değerli",
+      "definition": "Of great value; not to be wasted",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈpreʃ.əs/",
+      "examples": [
+        "Time is precious.",
+        "Water is a precious resource.",
+        "She keeps her precious memories alive."
+      ]
+    },
+    {
+      "word": "probably",
+      "meaning": "muhtemelen",
+      "definition": "Almost certainly; very likely",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ˈprɒb.ə.bli/",
+      "examples": [
+        "It will probably rain tomorrow.",
+        "She is probably at home.",
+        "We will probably arrive late."
+      ]
+    },
+    {
+      "word": "responsibility",
+      "meaning": "sorumluluk",
+      "definition": "The state of being responsible for something",
+      "partOfSpeech": "noun",
+      "pronunciation": "/rɪˌspɒn.sɪˈbɪl.ə.ti/",
+      "examples": [
+        "It's your responsibility to finish it.",
+        "She takes her responsibilities seriously.",
+        "Parents have a big responsibility."
+      ]
+    },
+    {
+      "word": "satisfy",
+      "meaning": "tatmin etmek",
+      "definition": "To fulfill the expectations or desires of",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈsæt.ɪs.faɪ/",
+      "examples": [
+        "Nothing seems to satisfy him.",
+        "The meal satisfied everyone.",
+        "She needs to satisfy the requirements."
+      ]
+    },
+    {
+      "word": "situation",
+      "meaning": "durum",
+      "definition": "A set of circumstances in which one finds oneself",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌsɪtʃ.uˈeɪ.ʃən/",
+      "examples": [
+        "It's a difficult situation.",
+        "We need to analyze the situation.",
+        "She handled the situation well."
+      ]
+    },
+    {
+      "word": "solution",
+      "meaning": "çözüm",
+      "definition": "A means of solving a problem",
+      "partOfSpeech": "noun",
+      "pronunciation": "/səˈluː.ʃən/",
+      "examples": [
+        "We need to find a solution quickly.",
+        "There is no easy solution.",
+        "She proposed a creative solution."
+      ]
+    },
+    {
+      "word": "struggle",
+      "meaning": "mücadele etmek",
+      "definition": "To make forceful efforts to get free",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈstrʌɡ.əl/",
+      "examples": [
+        "Many students struggle with math.",
+        "She struggled to stay awake.",
+        "He struggled against the disease."
+      ]
+    },
+    {
+      "word": "succeed",
+      "meaning": "başarmak",
+      "definition": "To achieve the desired aim or result",
+      "partOfSpeech": "verb",
+      "pronunciation": "/səkˈsiːd/",
+      "examples": [
+        "She succeeded in passing the exam.",
+        "If you try hard, you will succeed.",
+        "He wants to succeed in business."
+      ]
+    },
+    {
+      "word": "suggest",
+      "meaning": "önermek",
+      "definition": "To put forward for consideration",
+      "partOfSpeech": "verb",
+      "pronunciation": "/səˈdʒest/",
+      "examples": [
+        "I suggest we leave early.",
+        "She suggested a new approach.",
+        "Can you suggest a good restaurant?"
+      ]
+    },
+    {
+      "word": "typical",
+      "meaning": "tipik",
+      "definition": "Having the distinctive qualities of a type",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈtɪp.ɪ.kəl/",
+      "examples": [
+        "This is a typical Turkish breakfast.",
+        "It's typical weather for this season.",
+        "She is a typical example of a leader."
+      ]
+    },
+    {
+      "word": "valuable",
+      "meaning": "değerli",
+      "definition": "Worth a great deal of money or importance",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈvæl.juː.ə.bəl/",
+      "examples": [
+        "This is very valuable information.",
+        "Time is the most valuable resource.",
+        "She gave me valuable advice."
+      ]
+    },
+    {
+      "word": "variety",
+      "meaning": "çeşitlilik",
+      "definition": "The quality of being different or diverse",
+      "partOfSpeech": "noun",
+      "pronunciation": "/vəˈraɪ.ə.ti/",
+      "examples": [
+        "The store offers a wide variety of products.",
+        "She enjoys a variety of music.",
+        "Variety is the spice of life."
+      ]
+    },
+    {
+      "word": "wonder",
+      "meaning": "merak etmek",
+      "definition": "To desire or be curious to know something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈwʌn.dər/",
+      "examples": [
+        "I wonder what happened.",
+        "She wondered about the meaning of life.",
+        "I often wonder why he left."
+      ]
+    },
+    {
+      "word": "recognize",
+      "meaning": "tanımak",
+      "definition": "To identify someone or something from having encountered them before",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈrek.əɡ.naɪz/",
+      "examples": [
+        "I didn't recognize her at first.",
+        "He recognized the song immediately.",
+        "She recognized the importance of education."
+      ]
+    },
+    {
+      "word": "predict",
+      "meaning": "tahmin etmek",
+      "definition": "To say or estimate that something will happen in the future",
+      "partOfSpeech": "verb",
+      "pronunciation": "/prɪˈdɪkt/",
+      "examples": [
+        "It's hard to predict the weather.",
+        "Experts predict a rise in temperatures.",
+        "She predicted the outcome correctly."
+      ]
+    },
+    {
+      "word": "demand",
+      "meaning": "talep",
+      "definition": "An insistent and peremptory request",
+      "partOfSpeech": "noun",
+      "pronunciation": "/dɪˈmænd/",
+      "examples": [
+        "The demand for electric cars is growing.",
+        "She met all the demands of the job.",
+        "Supply must meet demand."
+      ]
+    },
+    {
+      "word": "effective",
+      "meaning": "etkili",
+      "definition": "Successful in producing a desired result",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪˈfek.tɪv/",
+      "examples": [
+        "This is a very effective method.",
+        "She is an effective communicator.",
+        "The treatment was effective."
+      ]
+    }
+  ],
+  "B2": [
+    {
+      "word": "acknowledge",
+      "meaning": "kabul etmek",
+      "definition": "To accept or admit the existence or truth of",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əkˈnɒl.ɪdʒ/",
+      "examples": [
+        "He acknowledged his mistake publicly.",
+        "She acknowledged the importance of teamwork.",
+        "It's important to acknowledge your feelings."
+      ]
+    },
+    {
+      "word": "ambiguous",
+      "meaning": "belirsiz",
+      "definition": "Open to more than one interpretation",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/æmˈbɪɡ.ju.əs/",
+      "examples": [
+        "The statement was deliberately ambiguous.",
+        "His instructions were ambiguous.",
+        "Avoid ambiguous language in contracts."
+      ]
+    },
+    {
+      "word": "consequence",
+      "meaning": "sonuç",
+      "definition": "A result or effect of an action",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈkɒn.sɪ.kwəns/",
+      "examples": [
+        "Every action has a consequence.",
+        "She faced the consequences of her decision.",
+        "The consequences could be severe."
+      ]
+    },
+    {
+      "word": "contemplate",
+      "meaning": "düşünmek",
+      "definition": "To think deeply and at length about something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈkɒn.təm.pleɪt/",
+      "examples": [
+        "She contemplated her future carefully.",
+        "He sat and contemplated the view.",
+        "I'm contemplating a career change."
+      ]
+    },
+    {
+      "word": "controversial",
+      "meaning": "tartışmalı",
+      "definition": "Giving rise to public disagreement",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌkɒn.trəˈvɜː.ʃəl/",
+      "examples": [
+        "It was a controversial decision.",
+        "The topic is quite controversial.",
+        "She made a controversial statement."
+      ]
+    },
+    {
+      "word": "conventional",
+      "meaning": "geleneksel",
+      "definition": "Based on what is traditionally done",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/kənˈven.ʃən.əl/",
+      "examples": [
+        "He chose a conventional career path.",
+        "Conventional methods are not always best.",
+        "She prefers conventional cooking."
+      ]
+    },
+    {
+      "word": "crucial",
+      "meaning": "hayati",
+      "definition": "Of great importance; critical",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈkruː.ʃəl/",
+      "examples": [
+        "This is a crucial moment in history.",
+        "Timing is crucial in business.",
+        "She played a crucial role in the project."
+      ]
+    },
+    {
+      "word": "deliberate",
+      "meaning": "kasıtlı",
+      "definition": "Done consciously and intentionally",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/dɪˈlɪb.ər.ət/",
+      "examples": [
+        "It was a deliberate act of kindness.",
+        "She made a deliberate effort to improve.",
+        "The decision was deliberate, not accidental."
+      ]
+    },
+    {
+      "word": "dilemma",
+      "meaning": "ikilem",
+      "definition": "A situation requiring a difficult choice",
+      "partOfSpeech": "noun",
+      "pronunciation": "/dɪˈlem.ə/",
+      "examples": [
+        "She faced a moral dilemma.",
+        "It's a common dilemma for parents.",
+        "He was caught in a dilemma."
+      ]
+    },
+    {
+      "word": "Distinction",
+      "meaning": "ayrım",
+      "definition": "A difference between similar things",
+      "partOfSpeech": "noun",
+      "pronunciation": "/dɪˈstɪŋk.ʃən/",
+      "examples": [
+        "There is a clear distinction between the two.",
+        "She graduated with distinction.",
+        "The distinction is subtle but important."
+      ]
+    },
+    {
+      "word": "elaborate",
+      "meaning": "ayrıntılı",
+      "definition": "Involving careful detail and complexity",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪˈlæb.ər.ət/",
+      "examples": [
+        "She prepared an elaborate presentation.",
+        "The plan was quite elaborate.",
+        "He gave an elaborate explanation."
+      ]
+    },
+    {
+      "word": "enhance",
+      "meaning": "artırmak",
+      "definition": "To intensify, increase, or further improve",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪnˈhæns/",
+      "examples": [
+        "Music can enhance your mood.",
+        "Technology enhances our daily lives.",
+        "She enhanced the design with new colors."
+      ]
+    },
+    {
+      "word": "exploit",
+      "meaning": "kullanmak",
+      "definition": "To use a situation for one's advantage",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪkˈsplɔɪt/",
+      "examples": [
+        "Companies exploit natural resources.",
+        "She exploited the opportunity fully.",
+        "Don't exploit people's kindness."
+      ]
+    },
+    {
+      "word": "fundamental",
+      "meaning": "temel",
+      "definition": "Forming a necessary base or core",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌfʌn.dəˈmen.təl/",
+      "examples": [
+        "Respect is fundamental in any relationship.",
+        "This is a fundamental change in policy.",
+        "She has a fundamental understanding of physics."
+      ]
+    },
+    {
+      "word": "genuine",
+      "meaning": "gerçek",
+      "definition": "Truly what something is said to be; authentic",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈdʒen.ju.ɪn/",
+      "examples": [
+        "She expressed genuine concern.",
+        "This is a genuine leather bag.",
+        "His smile was genuine."
+      ]
+    },
+    {
+      "word": "hypothesis",
+      "meaning": "hipotez",
+      "definition": "A proposed explanation for a phenomenon",
+      "partOfSpeech": "noun",
+      "pronunciation": "/haɪˈpɒθ.ə.sɪs/",
+      "examples": [
+        "The scientist tested her hypothesis.",
+        "This hypothesis needs more evidence.",
+        "He formed a hypothesis about the problem."
+      ]
+    },
+    {
+      "word": "inevitable",
+      "meaning": "kaçınılmaz",
+      "definition": "Certain to happen; unavoidable",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪˈnev.ɪ.tə.bəl/",
+      "examples": [
+        "Change is inevitable.",
+        "The delay was inevitable due to the storm.",
+        "It was inevitable that she would succeed."
+      ]
+    },
+    {
+      "word": "insight",
+      "meaning": "içgörü",
+      "definition": "An accurate and deep understanding",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈɪn.saɪt/",
+      "examples": [
+        "The book provides valuable insight into human behavior.",
+        "She gained insight from the experience.",
+        "His insights were incredibly helpful."
+      ]
+    },
+    {
+      "word": "justify",
+      "meaning": "haklı çıkarmak",
+      "definition": "To show or prove to be right or reasonable",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈdʒʌs.tɪ.faɪ/",
+      "examples": [
+        "How can you justify this decision?",
+        "She tried to justify her actions.",
+        "The results justified the effort."
+      ]
+    },
+    {
+      "word": "legitimate",
+      "meaning": "meşru",
+      "definition": "Conforming to the law or to rules",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/lɪˈdʒɪt.ɪ.mət/",
+      "examples": [
+        "She has a legitimate reason for being absent.",
+        "Is this a legitimate business?",
+        "His concerns are legitimate."
+      ]
+    },
+    {
+      "word": "manipulate",
+      "meaning": "manipüle etmek",
+      "definition": "To control or influence something cleverly",
+      "partOfSpeech": "verb",
+      "pronunciation": "/məˈnɪp.jə.leɪt/",
+      "examples": [
+        "He tried to manipulate the results.",
+        "Don't let anyone manipulate you.",
+        "She can manipulate data effectively."
+      ]
+    },
+    {
+      "word": "nevertheless",
+      "meaning": "buna rağmen",
+      "definition": "In spite of that; notwithstanding",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ˌnev.ə.ðəˈles/",
+      "examples": [
+        "It was raining; nevertheless, we went out.",
+        "She was tired; nevertheless, she kept working.",
+        "The task was difficult. Nevertheless, they succeeded."
+      ]
+    },
+    {
+      "word": "perceive",
+      "meaning": "algılamak",
+      "definition": "To become aware of through the senses",
+      "partOfSpeech": "verb",
+      "pronunciation": "/pərˈsiːv/",
+      "examples": [
+        "She perceived a change in his attitude.",
+        "People perceive risk differently.",
+        "He is perceived as a strong leader."
+      ]
+    },
+    {
+      "word": "phenomenon",
+      "meaning": "fenomen",
+      "definition": "A fact or situation that is observed to exist",
+      "partOfSpeech": "noun",
+      "pronunciation": "/fɪˈnɒm.ɪ.nɒn/",
+      "examples": [
+        "Global warming is a well-known phenomenon.",
+        "Social media is a modern phenomenon.",
+        "It's a natural phenomenon."
+      ]
+    },
+    {
+      "word": "precisely",
+      "meaning": "tam olarak",
+      "definition": "In exact terms; without vagueness",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/prɪˈsaɪs.li/",
+      "examples": [
+        "That is precisely what I meant.",
+        "She arrived precisely on time.",
+        "Measure the ingredients precisely."
+      ]
+    },
+    {
+      "word": "reluctant",
+      "meaning": "isteksiz",
+      "definition": "Unwilling and hesitant",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/rɪˈlʌk.tənt/",
+      "examples": [
+        "She was reluctant to share her opinion.",
+        "He is reluctant to make changes.",
+        "They were reluctant participants."
+      ]
+    },
+    {
+      "word": "significant",
+      "meaning": "önemli",
+      "definition": "Sufficiently great or important to be worthy of attention",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/sɪɡˈnɪf.ɪ.kənt/",
+      "examples": [
+        "This is a significant achievement.",
+        "There was a significant increase in sales.",
+        "She played a significant role."
+      ]
+    },
+    {
+      "word": "sophisticated",
+      "meaning": "sofistike",
+      "definition": "Having a refined knowledge of the world",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/səˈfɪs.tɪ.keɪ.tɪd/",
+      "examples": [
+        "She has sophisticated taste in art.",
+        "The software is highly sophisticated.",
+        "He gave a sophisticated argument."
+      ]
+    },
+    {
+      "word": "substantial",
+      "meaning": "önemli miktarda",
+      "definition": "Of considerable importance, size, or worth",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/səbˈstæn.ʃəl/",
+      "examples": [
+        "She received a substantial pay raise.",
+        "There is substantial evidence to support this.",
+        "He made a substantial contribution."
+      ]
+    },
+    {
+      "word": "tendency",
+      "meaning": "eğilim",
+      "definition": "An inclination toward a particular characteristic",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈten.dən.si/",
+      "examples": [
+        "He has a tendency to exaggerate.",
+        "There is a growing tendency toward remote work.",
+        "She has a tendency to overthink."
+      ]
+    },
+    {
+      "word": "thoroughly",
+      "meaning": "iyice",
+      "definition": "In a complete and detailed manner",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ˈθʌr.ə.li/",
+      "examples": [
+        "She thoroughly enjoyed the concert.",
+        "Clean the kitchen thoroughly.",
+        "He researched the topic thoroughly."
+      ]
+    },
+    {
+      "word": "underlying",
+      "meaning": "altta yatan",
+      "definition": "Significant but not immediately obvious",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌʌn.dərˈlaɪ.ɪŋ/",
+      "examples": [
+        "What is the underlying cause?",
+        "There is an underlying theme throughout the book.",
+        "She addressed the underlying issues."
+      ]
+    },
+    {
+      "word": "widespread",
+      "meaning": "yaygın",
+      "definition": "Found or distributed over a large area",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈwaɪd.spred/",
+      "examples": [
+        "There is widespread concern about pollution.",
+        "The disease became widespread.",
+        "The practice is widespread in Europe."
+      ]
+    },
+    {
+      "word": "withdraw",
+      "meaning": "çekilmek",
+      "definition": "To remove or take away",
+      "partOfSpeech": "verb",
+      "pronunciation": "/wɪðˈdrɔː/",
+      "examples": [
+        "She decided to withdraw from the competition.",
+        "He withdrew money from the bank.",
+        "The army was forced to withdraw."
+      ]
+    },
+    {
+      "word": "yield",
+      "meaning": "vermek",
+      "definition": "To produce or provide a natural or industrial product",
+      "partOfSpeech": "verb",
+      "pronunciation": "/jiːld/",
+      "examples": [
+        "The investment yielded good returns.",
+        "These trees yield excellent fruit.",
+        "The experiment yielded unexpected results."
+      ]
+    }
+  ],
+  "C1": [
+    {
+      "word": "abolish",
+      "meaning": "kaldırmak",
+      "definition": "To formally put an end to a system or practice",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈbɒl.ɪʃ/",
+      "examples": [
+        "The government abolished the old tax law.",
+        "Many countries have abolished the death penalty.",
+        "They seek to abolish unfair labor practices."
+      ]
+    },
+    {
+      "word": "abstract",
+      "meaning": "soyut",
+      "definition": "Existing in thought or as an idea without concrete existence",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈæb.strækt/",
+      "examples": [
+        "The concept is too abstract for children.",
+        "She paints in an abstract style.",
+        "Abstract thinking is essential for philosophy."
+      ]
+    },
+    {
+      "word": "accumulate",
+      "meaning": "biriktirmek",
+      "definition": "To gather together or acquire an increasing amount",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈkjuː.mjə.leɪt/",
+      "examples": [
+        "She accumulated a lot of knowledge over the years.",
+        "Dust tends to accumulate on shelves.",
+        "He accumulated wealth through wise investments."
+      ]
+    },
+    {
+      "word": "advocate",
+      "meaning": "savunmak",
+      "definition": "To publicly recommend or support",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈæd.və.keɪt/",
+      "examples": [
+        "She advocates for human rights.",
+        "He advocates a healthy lifestyle.",
+        "Many experts advocate for renewable energy."
+      ]
+    },
+    {
+      "word": "allegation",
+      "meaning": "iddia",
+      "definition": "A claim that someone has done something wrong",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌæl.əˈɡeɪ.ʃən/",
+      "examples": [
+        "The allegations were never proven.",
+        "She denied all the allegations.",
+        "Serious allegations were made against the company."
+      ]
+    },
+    {
+      "word": "alleviate",
+      "meaning": "hafifletmek",
+      "definition": "To make suffering less severe",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈliː.vi.eɪt/",
+      "examples": [
+        "Medicine can alleviate pain.",
+        "The government took steps to alleviate poverty.",
+        "She tried to alleviate his concerns."
+      ]
+    },
+    {
+      "word": "ambiguity",
+      "meaning": "belirsizlik",
+      "definition": "The quality of being open to more than one interpretation",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌæm.bɪˈɡjuː.ə.ti/",
+      "examples": [
+        "The contract was full of ambiguity.",
+        "There was no ambiguity in her response.",
+        "Legal documents should avoid ambiguity."
+      ]
+    },
+    {
+      "word": "anticipate",
+      "meaning": "önceden tahmin etmek",
+      "definition": "To regard as probable; expect or predict",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ænˈtɪs.ɪ.peɪt/",
+      "examples": [
+        "I didn't anticipate this problem.",
+        "She anticipated the question and prepared an answer.",
+        "We anticipate strong demand for the product."
+      ]
+    },
+    {
+      "word": "coherent",
+      "meaning": "tutarlı",
+      "definition": "Logical and consistent",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/koʊˈhɪr.ənt/",
+      "examples": [
+        "She gave a coherent explanation.",
+        "The plan needs to be more coherent.",
+        "His argument was clear and coherent."
+      ]
+    },
+    {
+      "word": "compliance",
+      "meaning": "uyum",
+      "definition": "The act of obeying a rule or request",
+      "partOfSpeech": "noun",
+      "pronunciation": "/kəmˈplaɪ.əns/",
+      "examples": [
+        "Compliance with the law is mandatory.",
+        "She ensured compliance with safety regulations.",
+        "The company is in full compliance."
+      ]
+    },
+    {
+      "word": "comprehensive",
+      "meaning": "kapsamlı",
+      "definition": "Including all or nearly all elements or aspects",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌkɒm.prɪˈhen.sɪv/",
+      "examples": [
+        "She wrote a comprehensive report.",
+        "We need a comprehensive plan.",
+        "The exam was comprehensive and challenging."
+      ]
+    },
+    {
+      "word": "conceive",
+      "meaning": "tasarlamak",
+      "definition": "To form or devise a plan or idea",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kənˈsiːv/",
+      "examples": [
+        "She conceived the idea during college.",
+        "It's hard to conceive of a world without technology.",
+        "He conceived a brilliant strategy."
+      ]
+    },
+    {
+      "word": "confine",
+      "meaning": "sınırlamak",
+      "definition": "To keep within certain limits",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kənˈfaɪn/",
+      "examples": [
+        "She tried to confine her remarks to the topic.",
+        "The disease was confined to one region.",
+        "Don't confine yourself to one approach."
+      ]
+    },
+    {
+      "word": "consolidate",
+      "meaning": "pekiştirmek",
+      "definition": "To make something physically stronger or more solid",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kənˈsɒl.ɪ.deɪt/",
+      "examples": [
+        "She consolidated her position as leader.",
+        "The companies decided to consolidate.",
+        "He needs to consolidate his skills."
+      ]
+    },
+    {
+      "word": "contempt",
+      "meaning": "küçümseme",
+      "definition": "The feeling that a person or thing is worthless",
+      "partOfSpeech": "noun",
+      "pronunciation": "/kənˈtempt/",
+      "examples": [
+        "She looked at him with contempt.",
+        "He showed contempt for the rules.",
+        "Contempt can destroy relationships."
+      ]
+    },
+    {
+      "word": "contradict",
+      "meaning": "çelişmek",
+      "definition": "To deny the truth of a statement by asserting the opposite",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˌkɒn.trəˈdɪkt/",
+      "examples": [
+        "The evidence contradicts his testimony.",
+        "Don't contradict yourself in the interview.",
+        "Her actions contradict her words."
+      ]
+    },
+    {
+      "word": "depict",
+      "meaning": "tasvir etmek",
+      "definition": "To represent or show something in an image or story",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈpɪkt/",
+      "examples": [
+        "The painting depicts a rural landscape.",
+        "The novel depicts life in the 1920s.",
+        "She depicted the scene with great detail."
+      ]
+    },
+    {
+      "word": "deteriorate",
+      "meaning": "kötüleşmek",
+      "definition": "To become progressively worse",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈtɪr.i.ə.reɪt/",
+      "examples": [
+        "His health deteriorated rapidly.",
+        "The situation continued to deteriorate.",
+        "Buildings deteriorate without maintenance."
+      ]
+    },
+    {
+      "word": "discretion",
+      "meaning": "takdir yetkisi",
+      "definition": "The quality of behaving in a careful and controlled way",
+      "partOfSpeech": "noun",
+      "pronunciation": "/dɪˈskreʃ.ən/",
+      "examples": [
+        "Use your own discretion in this matter.",
+        "She handled the situation with great discretion.",
+        "The judge used her discretion wisely."
+      ]
+    },
+    {
+      "word": "disposition",
+      "meaning": "eğilim",
+      "definition": "A person's inherent qualities of mind and character",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌdɪs.pəˈzɪʃ.ən/",
+      "examples": [
+        "She has a cheerful disposition.",
+        "His calm disposition makes him a good leader.",
+        "People with a positive disposition live longer."
+      ]
+    },
+    {
+      "word": "eloquent",
+      "meaning": "güzel konuşan",
+      "definition": "Fluent or persuasive in speaking or writing",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈel.ə.kwənt/",
+      "examples": [
+        "She gave an eloquent speech.",
+        "He is an eloquent writer.",
+        "Her silence was more eloquent than words."
+      ]
+    },
+    {
+      "word": "encompass",
+      "meaning": "kapsamak",
+      "definition": "To surround and have or hold within",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪnˈkʌm.pəs/",
+      "examples": [
+        "The course encompasses all major topics.",
+        "Her research encompasses several fields.",
+        "The park encompasses 500 acres."
+      ]
+    },
+    {
+      "word": "endeavor",
+      "meaning": "çaba",
+      "definition": "An attempt to achieve a goal",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ɪnˈdev.ər/",
+      "examples": [
+        "Scientific endeavor has improved our lives.",
+        "She put great endeavor into her work.",
+        "Every creative endeavor starts with an idea."
+      ]
+    },
+    {
+      "word": "erode",
+      "meaning": "aşındırmak",
+      "definition": "To gradually destroy or be gradually destroyed",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪˈroʊd/",
+      "examples": [
+        "Wind and rain erode the rocks.",
+        "Trust can erode quickly.",
+        "His confidence eroded over time."
+      ]
+    },
+    {
+      "word": "exaggerate",
+      "meaning": "abartmak",
+      "definition": "To represent something as being larger or more important",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪɡˈzædʒ.ə.reɪt/",
+      "examples": [
+        "He tends to exaggerate his achievements.",
+        "Don't exaggerate the problem.",
+        "She exaggerated the difficulty of the task."
+      ]
+    },
+    {
+      "word": "excerpt",
+      "meaning": "alıntı",
+      "definition": "A short extract from a film, broadcast, or text",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈek.sɜːpt/",
+      "examples": [
+        "She read an excerpt from the novel.",
+        "Here is an excerpt from his speech.",
+        "The excerpt was taken from chapter three."
+      ]
+    },
+    {
+      "word": "fiscal",
+      "meaning": "mali",
+      "definition": "Relating to government revenue and taxation",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈfɪs.kəl/",
+      "examples": [
+        "The government announced new fiscal policies.",
+        "The fiscal year ends in March.",
+        "She works in fiscal planning."
+      ]
+    },
+    {
+      "word": "flourish",
+      "meaning": "gelişmek",
+      "definition": "To grow or develop in a healthy or vigorous way",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈflʌr.ɪʃ/",
+      "examples": [
+        "The business flourished under her leadership.",
+        "Plants flourish in warm climates.",
+        "Creativity flourishes in a supportive environment."
+      ]
+    },
+    {
+      "word": "formidable",
+      "meaning": "müthiş",
+      "definition": "Inspiring fear or respect through being impressively large or powerful",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈfɔːr.mɪ.də.bəl/",
+      "examples": [
+        "She is a formidable opponent.",
+        "The task seemed formidable at first.",
+        "He built a formidable reputation."
+      ]
+    },
+    {
+      "word": "futile",
+      "meaning": "boşuna",
+      "definition": "Incapable of producing any useful result; pointless",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈfjuː.taɪl/",
+      "examples": [
+        "Resistance was futile.",
+        "It's futile to argue with him.",
+        "Their efforts proved futile."
+      ]
+    },
+    {
+      "word": "imminent",
+      "meaning": "yakın",
+      "definition": "About to happen",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈɪm.ɪ.nənt/",
+      "examples": [
+        "A storm is imminent.",
+        "She sensed that danger was imminent.",
+        "The announcement is imminent."
+      ]
+    },
+    {
+      "word": "implications",
+      "meaning": "sonuçlar",
+      "definition": "The conclusion that can be drawn from something",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌɪm.plɪˈkeɪ.ʃənz/",
+      "examples": [
+        "What are the implications of this decision?",
+        "The implications are far-reaching.",
+        "She didn't consider the implications."
+      ]
+    },
+    {
+      "word": "inadvertently",
+      "meaning": "istemeden",
+      "definition": "Without intention; accidentally",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ˌɪn.ədˈvɜː.tənt.li/",
+      "examples": [
+        "She inadvertently deleted the file.",
+        "He inadvertently revealed the secret.",
+        "The error was made inadvertently."
+      ]
+    },
+    {
+      "word": "integrity",
+      "meaning": "dürüstlük",
+      "definition": "The quality of being honest and having strong moral principles",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ɪnˈteɡ.rə.ti/",
+      "examples": [
+        "She is a person of great integrity.",
+        "He questioned the integrity of the research.",
+        "Integrity is essential in leadership."
+      ]
+    },
+    {
+      "word": "lucrative",
+      "meaning": "kazançlı",
+      "definition": "Producing a great deal of profit",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈluː.krə.tɪv/",
+      "examples": [
+        "She found a lucrative career in finance.",
+        "Real estate can be very lucrative.",
+        "That's a lucrative business opportunity."
+      ]
+    }
+  ],
+  "C2": [
+    {
+      "word": "abate",
+      "meaning": "azalmak",
+      "definition": "To become less intense or widespread",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈbeɪt/",
+      "examples": [
+        "The storm showed no signs of abating.",
+        "Public anger failed to abate.",
+        "The noise finally abated after midnight."
+      ]
+    },
+    {
+      "word": "aberration",
+      "meaning": "sapma",
+      "definition": "A departure from what is normal or expected",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌæb.əˈreɪ.ʃən/",
+      "examples": [
+        "The warm winter was an aberration.",
+        "This behavior is an aberration from his usual conduct.",
+        "Statistical aberrations can mislead researchers."
+      ]
+    },
+    {
+      "word": "acrimonious",
+      "meaning": "acı",
+      "definition": "Angry and bitter",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌæk.rɪˈmoʊ.ni.əs/",
+      "examples": [
+        "The divorce was acrimonious.",
+        "An acrimonious debate erupted in parliament.",
+        "She wanted to avoid an acrimonious discussion."
+      ]
+    },
+    {
+      "word": "amalgamate",
+      "meaning": "birleştirmek",
+      "definition": "To combine or unite to form one structure",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈmæl.ɡə.meɪt/",
+      "examples": [
+        "The two companies amalgamated last year.",
+        "They decided to amalgamate their resources.",
+        "Several departments were amalgamated."
+      ]
+    },
+    {
+      "word": "anachronism",
+      "meaning": "anakronizm",
+      "definition": "A thing belonging to a period other than that in which it exists",
+      "partOfSpeech": "noun",
+      "pronunciation": "/əˈnæk.rə.nɪ.zəm/",
+      "examples": [
+        "The use of typewriters is an anachronism.",
+        "The monarchy is viewed by some as an anachronism.",
+        "Historical films often contain anachronisms."
+      ]
+    },
+    {
+      "word": "belligerent",
+      "meaning": "savaşçı",
+      "definition": "Hostile and aggressive",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/bəˈlɪdʒ.ər.ənt/",
+      "examples": [
+        "He became belligerent when challenged.",
+        "The belligerent nations refused to negotiate.",
+        "Her belligerent tone shocked everyone."
+      ]
+    },
+    {
+      "word": "brevity",
+      "meaning": "kısalık",
+      "definition": "Concise and exact use of words",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈbrev.ə.ti/",
+      "examples": [
+        "Brevity is the soul of wit.",
+        "He was known for the brevity of his speeches.",
+        "The brevity of life makes every moment precious."
+      ]
+    },
+    {
+      "word": "capricious",
+      "meaning": "kaprisli",
+      "definition": "Given to sudden and unaccountable changes of mood",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/kəˈprɪʃ.əs/",
+      "examples": [
+        "The weather here is capricious.",
+        "She is known for her capricious behavior.",
+        "Capricious leadership creates instability."
+      ]
+    },
+    {
+      "word": "circumvent",
+      "meaning": "atlatmak",
+      "definition": "To find a way around an obstacle",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˌsɜː.kəmˈvent/",
+      "examples": [
+        "They tried to circumvent the regulations.",
+        "She circumvented the problem by using a different method.",
+        "Companies often circumvent tax laws."
+      ]
+    },
+    {
+      "word": "clandestine",
+      "meaning": "gizli",
+      "definition": "Kept secret or done secretively",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/klænˈdes.tɪn/",
+      "examples": [
+        "They held clandestine meetings at night.",
+        "The clandestine operation was discovered.",
+        "She led a clandestine life."
+      ]
+    },
+    {
+      "word": "conundrum",
+      "meaning": "bilmece",
+      "definition": "A confusing and difficult problem or question",
+      "partOfSpeech": "noun",
+      "pronunciation": "/kəˈnʌn.drəm/",
+      "examples": [
+        "The budget deficit is a conundrum.",
+        "It's a moral conundrum with no easy answer.",
+        "She faced the conundrum of choosing between two jobs."
+      ]
+    },
+    {
+      "word": "debilitate",
+      "meaning": "zayıflatmak",
+      "definition": "To make someone very weak",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈbɪl.ɪ.teɪt/",
+      "examples": [
+        "The disease debilitated him for months.",
+        "Chronic stress can debilitate the immune system.",
+        "The injury debilitated the athlete."
+      ]
+    },
+    {
+      "word": "delineate",
+      "meaning": "belirlemek",
+      "definition": "To describe or portray something precisely",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈlɪn.i.eɪt/",
+      "examples": [
+        "She delineated the boundaries of the project.",
+        "The report clearly delineates the risks involved.",
+        "It's important to delineate roles and responsibilities."
+      ]
+    },
+    {
+      "word": "ebullient",
+      "meaning": "coşkulu",
+      "definition": "Cheerful and full of energy",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪˈbʊl.i.ənt/",
+      "examples": [
+        "She was in an ebullient mood after the promotion.",
+        "His ebullient personality lights up every room.",
+        "The crowd was ebullient after the victory."
+      ]
+    },
+    {
+      "word": "ephemeral",
+      "meaning": "geçici",
+      "definition": "Lasting for a very short time",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪˈfem.ər.əl/",
+      "examples": [
+        "Social media fame is often ephemeral.",
+        "The beauty of cherry blossoms is ephemeral.",
+        "Ephemeral trends come and go quickly."
+      ]
+    },
+    {
+      "word": "equivocal",
+      "meaning": "iki anlamlı",
+      "definition": "Open to more than one interpretation; ambiguous",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪˈkwɪv.ə.kəl/",
+      "examples": [
+        "His response was deliberately equivocal.",
+        "The results of the study were equivocal.",
+        "She gave an equivocal answer to avoid commitment."
+      ]
+    },
+    {
+      "word": "exacerbate",
+      "meaning": "kötüleştirmek",
+      "definition": "To make a problem or situation worse",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪɡˈzæs.ər.beɪt/",
+      "examples": [
+        "The drought exacerbated the food crisis.",
+        "Stress can exacerbate health problems.",
+        "His comments only exacerbated the tension."
+      ]
+    },
+    {
+      "word": "fastidious",
+      "meaning": "titiz",
+      "definition": "Very attentive to detail and accuracy",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/fæsˈtɪd.i.əs/",
+      "examples": [
+        "She is fastidious about her work.",
+        "He kept his house in fastidious order.",
+        "The editor was fastidious about grammar."
+      ]
+    },
+    {
+      "word": "gregarious",
+      "meaning": "sosyal",
+      "definition": "Fond of company; sociable",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɡrɪˈɡer.i.əs/",
+      "examples": [
+        "She has a gregarious personality.",
+        "He is naturally gregarious and makes friends easily.",
+        "Gregarious people thrive in social settings."
+      ]
+    },
+    {
+      "word": "idiosyncratic",
+      "meaning": "kendine özgü",
+      "definition": "Relating to a distinctive individual characteristic",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌɪd.i.ə.sɪŋˈkræt.ɪk/",
+      "examples": [
+        "She has an idiosyncratic sense of humor.",
+        "His writing style is highly idiosyncratic.",
+        "Each culture has its own idiosyncratic customs."
+      ]
+    },
+    {
+      "word": "impervious",
+      "meaning": "etkilenmez",
+      "definition": "Not allowing fluid to pass through; unable to be affected",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪmˈpɜː.vi.əs/",
+      "examples": [
+        "She seemed impervious to criticism.",
+        "The material is impervious to water.",
+        "He remained impervious to their pleas."
+      ]
+    },
+    {
+      "word": "insidious",
+      "meaning": "sinsi",
+      "definition": "Proceeding in a gradual and harmful way",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪnˈsɪd.i.əs/",
+      "examples": [
+        "Misinformation has an insidious effect on society.",
+        "The disease is particularly insidious.",
+        "He warned of the insidious influence of propaganda."
+      ]
+    },
+    {
+      "word": "juxtapose",
+      "meaning": "yan yana koymak",
+      "definition": "To place close together for contrasting effect",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˌdʒʌk.stəˈpoʊz/",
+      "examples": [
+        "The artist juxtaposed light and dark colors.",
+        "The documentary juxtaposes wealth and poverty.",
+        "She juxtaposed modern and traditional designs."
+      ]
+    },
+    {
+      "word": "magnanimous",
+      "meaning": "cömert",
+      "definition": "Very generous or forgiving",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/mæɡˈnæn.ɪ.məs/",
+      "examples": [
+        "She was magnanimous in victory.",
+        "He made a magnanimous gesture toward his rival.",
+        "A truly magnanimous leader inspires loyalty."
+      ]
+    },
+    {
+      "word": "nefarious",
+      "meaning": "kötü",
+      "definition": "Typically of an action or activity, wicked or criminal",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/nɪˈfer.i.əs/",
+      "examples": [
+        "The villain had nefarious plans.",
+        "She uncovered a nefarious scheme.",
+        "His nefarious activities were finally exposed."
+      ]
+    },
+    {
+      "word": "obfuscate",
+      "meaning": "belirsizleştirmek",
+      "definition": "To make something unclear or unintelligible",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈɒb.fʌ.skeɪt/",
+      "examples": [
+        "Politicians sometimes obfuscate the truth.",
+        "The jargon only serves to obfuscate the issue.",
+        "Don't try to obfuscate the facts."
+      ]
+    },
+    {
+      "word": "pernicious",
+      "meaning": "zararlı",
+      "definition": "Having a harmful effect, especially in a gradual or subtle way",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/pərˈnɪʃ.əs/",
+      "examples": [
+        "Racism is a pernicious evil.",
+        "The pernicious effects of pollution are well documented.",
+        "She warned of the pernicious influence of social media."
+      ]
+    },
+    {
+      "word": "quintessential",
+      "meaning": "en tipik",
+      "definition": "Representing the most perfect or typical example",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌkwɪn.tɪˈsen.ʃəl/",
+      "examples": [
+        "She is the quintessential professional.",
+        "This is the quintessential British novel.",
+        "He embodies the quintessential spirit of entrepreneurship."
+      ]
+    },
+    {
+      "word": "recalcitrant",
+      "meaning": "inatçı",
+      "definition": "Having an obstinately uncooperative attitude",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/rɪˈkæl.sɪ.trənt/",
+      "examples": [
+        "The recalcitrant student refused to follow the rules.",
+        "They dealt with the recalcitrant nation firmly.",
+        "She was recalcitrant in the face of authority."
+      ]
+    },
+    {
+      "word": "surreptitious",
+      "meaning": "gizli",
+      "definition": "Kept secret, especially because it would not be approved",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌsʌr.əpˈtɪʃ.əs/",
+      "examples": [
+        "She took a surreptitious glance at her phone.",
+        "He made surreptitious payments to the official.",
+        "Their surreptitious meetings went unnoticed."
+      ]
+    },
+    {
+      "word": "ubiquitous",
+      "meaning": "her yerde bulunan",
+      "definition": "Present, appearing, or found everywhere",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/juːˈbɪk.wɪ.təs/",
+      "examples": [
+        "Smartphones are ubiquitous in modern life.",
+        "Coffee shops have become ubiquitous in the city.",
+        "The brand has become ubiquitous worldwide."
+      ]
+    },
+    {
+      "word": "vicarious",
+      "meaning": "dolaylı",
+      "definition": "Experienced in the imagination through the feelings of another",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/vɪˈker.i.əs/",
+      "examples": [
+        "She lived vicariously through her children.",
+        "He got vicarious pleasure from watching travel shows.",
+        "Reading offers vicarious experiences."
+      ]
+    },
+    {
+      "word": "voluminous",
+      "meaning": "hacimli",
+      "definition": "Occupying much space; very lengthy and detailed",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/vəˈluː.mɪ.nəs/",
+      "examples": [
+        "She wore a voluminous gown.",
+        "He produced voluminous notes during research.",
+        "The voluminous report covered every detail."
+      ]
+    },
+    {
+      "word": "zealous",
+      "meaning": "gayretli",
+      "definition": "Having great energy or enthusiasm in pursuit of a cause",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈzel.əs/",
+      "examples": [
+        "She is a zealous advocate for education.",
+        "He was zealous in his efforts to reform the system.",
+        "The zealous fans cheered all night."
+      ]
+    },
+    {
+      "word": "vestige",
+      "meaning": "kalıntı",
+      "definition": "A trace of something that is disappearing or no longer exists",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈves.tɪdʒ/",
+      "examples": [
+        "Not a vestige of the old building remained.",
+        "The law is a vestige of a bygone era.",
+        "She found vestiges of the ancient civilization."
+      ]
+    }
+  ]
+}
