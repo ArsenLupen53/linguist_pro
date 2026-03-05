@@ -419,6 +419,894 @@
         "The sky is blue in color.",
         "She painted the room a warm color."
       ]
+    },
+    {
+      "word": "head",
+      "meaning": "baş",
+      "definition": "The upper part of the human body",
+      "partOfSpeech": "noun",
+      "pronunciation": "/hed/",
+      "examples": [
+        "She shook her head.",
+        "He hit his head on the door.",
+        "My head hurts."
+      ]
+    },
+    {
+      "word": "hand",
+      "meaning": "el",
+      "definition": "The end part of a person's arm beyond the wrist",
+      "partOfSpeech": "noun",
+      "pronunciation": "/hænd/",
+      "examples": [
+        "She held his hand.",
+        "Wash your hands before eating.",
+        "He raised his hand in class."
+      ]
+    },
+    {
+      "word": "eye",
+      "meaning": "göz",
+      "definition": "The organ of sight in humans",
+      "partOfSpeech": "noun",
+      "pronunciation": "/aɪ/",
+      "examples": [
+        "She has beautiful blue eyes.",
+        "Close your eyes and sleep.",
+        "I have something in my eye."
+      ]
+    },
+    {
+      "word": "ear",
+      "meaning": "kulak",
+      "definition": "The organ of hearing in humans",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ɪr/",
+      "examples": [
+        "She whispered in his ear.",
+        "My ears are cold.",
+        "He has good ears for music."
+      ]
+    },
+    {
+      "word": "nose",
+      "meaning": "burun",
+      "definition": "The part of the face used for breathing and smelling",
+      "partOfSpeech": "noun",
+      "pronunciation": "/noʊz/",
+      "examples": [
+        "She has a small nose.",
+        "My nose is cold.",
+        "He blew his nose."
+      ]
+    },
+    {
+      "word": "mouth",
+      "meaning": "ağız",
+      "definition": "The opening in the face used for eating and speaking",
+      "partOfSpeech": "noun",
+      "pronunciation": "/maʊθ/",
+      "examples": [
+        "Open your mouth.",
+        "She covered her mouth when she laughed.",
+        "Don't talk with food in your mouth."
+      ]
+    },
+    {
+      "word": "leg",
+      "meaning": "bacak",
+      "definition": "The lower limb of the human body",
+      "partOfSpeech": "noun",
+      "pronunciation": "/leɡ/",
+      "examples": [
+        "She broke her leg.",
+        "My legs are tired after running.",
+        "The dog has four legs."
+      ]
+    },
+    {
+      "word": "arm",
+      "meaning": "kol",
+      "definition": "The upper limb of the human body",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ɑːrm/",
+      "examples": [
+        "She broke her arm last year.",
+        "He carried the baby in his arms.",
+        "Raise your arms above your head."
+      ]
+    },
+    {
+      "word": "red",
+      "meaning": "kırmızı",
+      "definition": "Of the color of blood or fire",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/red/",
+      "examples": [
+        "She wore a red dress.",
+        "The traffic light turned red.",
+        "I like red roses."
+      ]
+    },
+    {
+      "word": "blue",
+      "meaning": "mavi",
+      "definition": "Of the color of a clear sky",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/bluː/",
+      "examples": [
+        "The sky is blue today.",
+        "She has blue eyes.",
+        "He painted the wall blue."
+      ]
+    },
+    {
+      "word": "green",
+      "meaning": "yeşil",
+      "definition": "Of the color between blue and yellow",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɡriːn/",
+      "examples": [
+        "The grass is green.",
+        "She likes green tea.",
+        "The traffic light is green."
+      ]
+    },
+    {
+      "word": "yellow",
+      "meaning": "sarı",
+      "definition": "Of the color of gold or butter",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈjel.oʊ/",
+      "examples": [
+        "The sun is yellow.",
+        "She wore a yellow hat.",
+        "Bananas are yellow when ripe."
+      ]
+    },
+    {
+      "word": "black",
+      "meaning": "siyah",
+      "definition": "Of the very darkest color",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/blæk/",
+      "examples": [
+        "She has black hair.",
+        "He wore a black suit.",
+        "The cat is black."
+      ]
+    },
+    {
+      "word": "white",
+      "meaning": "beyaz",
+      "definition": "Of the color of milk or fresh snow",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/waɪt/",
+      "examples": [
+        "Snow is white.",
+        "She wore a white shirt.",
+        "The walls are white."
+      ]
+    },
+    {
+      "word": "brother",
+      "meaning": "erkek kardeş",
+      "definition": "A male sibling",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈbrʌð.ər/",
+      "examples": [
+        "My brother is older than me.",
+        "She has two brothers.",
+        "He and his brother play together."
+      ]
+    },
+    {
+      "word": "sister",
+      "meaning": "kız kardeş",
+      "definition": "A female sibling",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈsɪs.tər/",
+      "examples": [
+        "My sister is a doctor.",
+        "She loves her little sister.",
+        "I have one sister."
+      ]
+    },
+    {
+      "word": "baby",
+      "meaning": "bebek",
+      "definition": "A very young child",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈbeɪ.bi/",
+      "examples": [
+        "The baby is sleeping.",
+        "She had a baby last month.",
+        "The baby is crying."
+      ]
+    },
+    {
+      "word": "man",
+      "meaning": "adam",
+      "definition": "An adult male human",
+      "partOfSpeech": "noun",
+      "pronunciation": "/mæn/",
+      "examples": [
+        "The man is tall.",
+        "A man helped me carry my bags.",
+        "He is a kind man."
+      ]
+    },
+    {
+      "word": "woman",
+      "meaning": "kadın",
+      "definition": "An adult female human",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈwʊm.ən/",
+      "examples": [
+        "The woman smiled at me.",
+        "She is a strong woman.",
+        "A woman called for you."
+      ]
+    },
+    {
+      "word": "boy",
+      "meaning": "erkek çocuk",
+      "definition": "A male child or young man",
+      "partOfSpeech": "noun",
+      "pronunciation": "/bɔɪ/",
+      "examples": [
+        "The boy is playing football.",
+        "He is a clever boy.",
+        "The boy ran to his mother."
+      ]
+    },
+    {
+      "word": "girl",
+      "meaning": "kız çocuk",
+      "definition": "A female child or young woman",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ɡɜːrl/",
+      "examples": [
+        "The girl is reading a book.",
+        "She is a smart girl.",
+        "A little girl waved at me."
+      ]
+    },
+    {
+      "word": "teacher",
+      "meaning": "öğretmen",
+      "definition": "A person who teaches at a school",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈtiː.tʃər/",
+      "examples": [
+        "My teacher is very kind.",
+        "She wants to be a teacher.",
+        "The teacher gave us homework."
+      ]
+    },
+    {
+      "word": "doctor",
+      "meaning": "doktor",
+      "definition": "A person who treats sick people",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈdɒk.tər/",
+      "examples": [
+        "I need to see a doctor.",
+        "She is a good doctor.",
+        "The doctor helped me feel better."
+      ]
+    },
+    {
+      "word": "bus",
+      "meaning": "otobüs",
+      "definition": "A large vehicle that carries passengers",
+      "partOfSpeech": "noun",
+      "pronunciation": "/bʌs/",
+      "examples": [
+        "I take the bus to school.",
+        "The bus is late.",
+        "She waited for the bus."
+      ]
+    },
+    {
+      "word": "train",
+      "meaning": "tren",
+      "definition": "A series of connected vehicles that travel on railways",
+      "partOfSpeech": "noun",
+      "pronunciation": "/treɪn/",
+      "examples": [
+        "The train is fast.",
+        "I like traveling by train.",
+        "She missed the train."
+      ]
+    },
+    {
+      "word": "phone",
+      "meaning": "telefon",
+      "definition": "A device used for talking to people at a distance",
+      "partOfSpeech": "noun",
+      "pronunciation": "/foʊn/",
+      "examples": [
+        "My phone is ringing.",
+        "She forgot her phone.",
+        "Can I use your phone?"
+      ]
+    },
+    {
+      "word": "bed",
+      "meaning": "yatak",
+      "definition": "A piece of furniture for sleeping on",
+      "partOfSpeech": "noun",
+      "pronunciation": "/bed/",
+      "examples": [
+        "I go to bed at ten.",
+        "The bed is very comfortable.",
+        "She made the bed this morning."
+      ]
+    },
+    {
+      "word": "garden",
+      "meaning": "bahçe",
+      "definition": "A piece of land next to a house used for growing flowers",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈɡɑːr.dən/",
+      "examples": [
+        "We have a beautiful garden.",
+        "She works in the garden.",
+        "The children play in the garden."
+      ]
+    },
+    {
+      "word": "tree",
+      "meaning": "ağaç",
+      "definition": "A large plant with a trunk, branches, and leaves",
+      "partOfSpeech": "noun",
+      "pronunciation": "/triː/",
+      "examples": [
+        "There is a big tree in the park.",
+        "She sat under the tree.",
+        "The tree has many leaves."
+      ]
+    },
+    {
+      "word": "flower",
+      "meaning": "çiçek",
+      "definition": "The colorful part of a plant",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈflaʊ.ər/",
+      "examples": [
+        "She gave me a flower.",
+        "The flowers are beautiful.",
+        "I bought flowers for my mother."
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "yağmur",
+      "definition": "Water that falls from clouds",
+      "partOfSpeech": "noun",
+      "pronunciation": "/reɪn/",
+      "examples": [
+        "It is raining outside.",
+        "I love the rain.",
+        "Take an umbrella, it might rain."
+      ]
+    },
+    {
+      "word": "sun",
+      "meaning": "güneş",
+      "definition": "The star that gives light and heat to the Earth",
+      "partOfSpeech": "noun",
+      "pronunciation": "/sʌn/",
+      "examples": [
+        "The sun is shining.",
+        "I love sitting in the sun.",
+        "The sun rises in the east."
+      ]
+    },
+    {
+      "word": "snow",
+      "meaning": "kar",
+      "definition": "White frozen water that falls from the sky",
+      "partOfSpeech": "noun",
+      "pronunciation": "/snoʊ/",
+      "examples": [
+        "It is snowing today.",
+        "The children love playing in the snow.",
+        "The snow is very white."
+      ]
+    },
+    {
+      "word": "street",
+      "meaning": "sokak",
+      "definition": "A public road in a city or town",
+      "partOfSpeech": "noun",
+      "pronunciation": "/striːt/",
+      "examples": [
+        "The street is very busy.",
+        "I live on this street.",
+        "She crossed the street carefully."
+      ]
+    },
+    {
+      "word": "animal",
+      "meaning": "hayvan",
+      "definition": "A living organism that can move and feel",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈæn.ɪ.məl/",
+      "examples": [
+        "I love animals.",
+        "The zoo has many animals.",
+        "Dogs are my favorite animals."
+      ]
+    },
+    {
+      "word": "bird",
+      "meaning": "kuş",
+      "definition": "A warm-blooded animal with feathers and wings",
+      "partOfSpeech": "noun",
+      "pronunciation": "/bɜːrd/",
+      "examples": [
+        "A bird is singing in the tree.",
+        "I saw a beautiful bird.",
+        "Birds fly south in winter."
+      ]
+    },
+    {
+      "word": "fish",
+      "meaning": "balık",
+      "definition": "A cold-blooded animal that lives in water",
+      "partOfSpeech": "noun",
+      "pronunciation": "/fɪʃ/",
+      "examples": [
+        "I like to eat fish.",
+        "There are many fish in the lake.",
+        "She caught a big fish."
+      ]
+    },
+    {
+      "word": "milk",
+      "meaning": "süt",
+      "definition": "A white liquid produced by cows",
+      "partOfSpeech": "noun",
+      "pronunciation": "/mɪlk/",
+      "examples": [
+        "I drink milk every morning.",
+        "The baby drinks milk.",
+        "Do you want milk in your coffee?"
+      ]
+    },
+    {
+      "word": "bread",
+      "meaning": "ekmek",
+      "definition": "A food made from flour, water, and yeast",
+      "partOfSpeech": "noun",
+      "pronunciation": "/bred/",
+      "examples": [
+        "I eat bread for breakfast.",
+        "She bought fresh bread.",
+        "Would you like some bread?"
+      ]
+    },
+    {
+      "word": "egg",
+      "meaning": "yumurta",
+      "definition": "An oval object laid by a female bird",
+      "partOfSpeech": "noun",
+      "pronunciation": "/eɡ/",
+      "examples": [
+        "I had an egg for breakfast.",
+        "She boiled two eggs.",
+        "Can you buy some eggs?"
+      ]
+    },
+    {
+      "word": "long",
+      "meaning": "uzun",
+      "definition": "Measuring a great distance from end to end",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/lɔːŋ/",
+      "examples": [
+        "She has long hair.",
+        "The road is very long.",
+        "It was a long day."
+      ]
+    },
+    {
+      "word": "short",
+      "meaning": "kısa",
+      "definition": "Measuring a small distance from end to end",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ʃɔːrt/",
+      "examples": [
+        "He is short for his age.",
+        "It was a short walk.",
+        "She has short hair."
+      ]
+    },
+    {
+      "word": "fast",
+      "meaning": "hızlı",
+      "definition": "Moving or capable of moving at high speed",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/fæst/",
+      "examples": [
+        "The car is very fast.",
+        "He is a fast runner.",
+        "Don't drive too fast."
+      ]
+    },
+    {
+      "word": "slow",
+      "meaning": "yavaş",
+      "definition": "Moving or operating at a low speed",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/sloʊ/",
+      "examples": [
+        "The turtle is very slow.",
+        "Please speak more slowly.",
+        "Traffic is slow today."
+      ]
+    },
+    {
+      "word": "young",
+      "meaning": "genç",
+      "definition": "Having lived for only a short time",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/jʌŋ/",
+      "examples": [
+        "She is very young.",
+        "Young people like music.",
+        "He looks young for his age."
+      ]
+    },
+    {
+      "word": "strong",
+      "meaning": "güçlü",
+      "definition": "Having the power to move heavy things",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/strɔːŋ/",
+      "examples": [
+        "He is very strong.",
+        "She has a strong voice.",
+        "Coffee is too strong for me."
+      ]
+    },
+    {
+      "word": "easy",
+      "meaning": "kolay",
+      "definition": "Achieved without great effort",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈiː.zi/",
+      "examples": [
+        "This question is easy.",
+        "English is not easy to learn.",
+        "It was easy to find the place."
+      ]
+    },
+    {
+      "word": "hard",
+      "meaning": "zor",
+      "definition": "Requiring a great deal of effort",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/hɑːrd/",
+      "examples": [
+        "This exam is very hard.",
+        "She works hard every day.",
+        "It is hard to wake up early."
+      ]
+    },
+    {
+      "word": "clean",
+      "meaning": "temiz",
+      "definition": "Free from dirt or impurities",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/kliːn/",
+      "examples": [
+        "The room is very clean.",
+        "Please keep the kitchen clean.",
+        "She likes to wear clean clothes."
+      ]
+    },
+    {
+      "word": "dirty",
+      "meaning": "kirli",
+      "definition": "Covered or marked with dirt",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈdɜːr.ti/",
+      "examples": [
+        "Your hands are dirty.",
+        "Don't sit on the dirty floor.",
+        "The dog got very dirty."
+      ]
+    },
+    {
+      "word": "hungry",
+      "meaning": "aç",
+      "definition": "Feeling the need for food",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈhʌŋ.ɡri/",
+      "examples": [
+        "I am very hungry.",
+        "The children are hungry.",
+        "She gets hungry after exercise."
+      ]
+    },
+    {
+      "word": "tired",
+      "meaning": "yorgun",
+      "definition": "In need of sleep or rest",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/taɪərd/",
+      "examples": [
+        "I am very tired today.",
+        "She looks tired.",
+        "I feel tired after work."
+      ]
+    },
+    {
+      "word": "sick",
+      "meaning": "hasta",
+      "definition": "Affected by physical or mental illness",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/sɪk/",
+      "examples": [
+        "She is sick today.",
+        "He feels sick after eating.",
+        "I was sick last week."
+      ]
+    },
+    {
+      "word": "nice",
+      "meaning": "güzel",
+      "definition": "Pleasant; giving pleasure",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/naɪs/",
+      "examples": [
+        "She is very nice.",
+        "That's a nice dress.",
+        "We had a nice time."
+      ]
+    },
+    {
+      "word": "bad",
+      "meaning": "kötü",
+      "definition": "Of poor quality or low standard",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/bæd/",
+      "examples": [
+        "That was a bad idea.",
+        "The weather is bad today.",
+        "I feel bad about what happened."
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "gün",
+      "definition": "A period of twenty-four hours",
+      "partOfSpeech": "noun",
+      "pronunciation": "/deɪ/",
+      "examples": [
+        "Today is a beautiful day.",
+        "She works five days a week.",
+        "What day is it today?"
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "yıl",
+      "definition": "A period of twelve months",
+      "partOfSpeech": "noun",
+      "pronunciation": "/jɪr/",
+      "examples": [
+        "She is ten years old.",
+        "We go on holiday every year.",
+        "Last year was great."
+      ]
+    },
+    {
+      "word": "today",
+      "meaning": "bugün",
+      "definition": "On this present day",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/təˈdeɪ/",
+      "examples": [
+        "What are you doing today?",
+        "Today is Monday.",
+        "I start work today."
+      ]
+    },
+    {
+      "word": "tomorrow",
+      "meaning": "yarın",
+      "definition": "On the day after today",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/təˈmɒr.oʊ/",
+      "examples": [
+        "I will see you tomorrow.",
+        "Tomorrow is her birthday.",
+        "Let's meet tomorrow."
+      ]
+    },
+    {
+      "word": "yesterday",
+      "meaning": "dün",
+      "definition": "On the day before today",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ˈjes.tər.deɪ/",
+      "examples": [
+        "I saw her yesterday.",
+        "Yesterday was sunny.",
+        "She arrived yesterday."
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "hafta",
+      "definition": "A period of seven days",
+      "partOfSpeech": "noun",
+      "pronunciation": "/wiːk/",
+      "examples": [
+        "I exercise three times a week.",
+        "Last week was busy.",
+        "See you next week."
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "ay",
+      "definition": "A period of about thirty days",
+      "partOfSpeech": "noun",
+      "pronunciation": "/mʌnθ/",
+      "examples": [
+        "She visits every month.",
+        "This month is very cold.",
+        "We moved here two months ago."
+      ]
+    },
+    {
+      "word": "minute",
+      "meaning": "dakika",
+      "definition": "A period of sixty seconds",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈmɪn.ɪt/",
+      "examples": [
+        "Wait a minute please.",
+        "The train arrives in five minutes.",
+        "It takes thirty minutes to walk there."
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "saat",
+      "definition": "A period of sixty minutes",
+      "partOfSpeech": "noun",
+      "pronunciation": "/aʊr/",
+      "examples": [
+        "The meeting lasts one hour.",
+        "She waited for two hours.",
+        "I study for three hours every day."
+      ]
+    },
+    {
+      "word": "place",
+      "meaning": "yer",
+      "definition": "A particular position or area",
+      "partOfSpeech": "noun",
+      "pronunciation": "/pleɪs/",
+      "examples": [
+        "This is a nice place.",
+        "She went to a beautiful place.",
+        "What is your favorite place?"
+      ]
+    },
+    {
+      "word": "listen",
+      "meaning": "dinlemek",
+      "definition": "To pay attention to sound",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈlɪs.ən/",
+      "examples": [
+        "Listen to the music.",
+        "She listens to podcasts.",
+        "Please listen carefully."
+      ]
+    },
+    {
+      "word": "ask",
+      "meaning": "sormak",
+      "definition": "To say something as a question",
+      "partOfSpeech": "verb",
+      "pronunciation": "/æsk/",
+      "examples": [
+        "Can I ask you a question?",
+        "She asked for help.",
+        "Don't be afraid to ask."
+      ]
+    },
+    {
+      "word": "tell",
+      "meaning": "söylemek",
+      "definition": "To communicate information to someone",
+      "partOfSpeech": "verb",
+      "pronunciation": "/tel/",
+      "examples": [
+        "Tell me about your day.",
+        "She told me the truth.",
+        "Don't tell anyone."
+      ]
+    },
+    {
+      "word": "stop",
+      "meaning": "durmak",
+      "definition": "To cease moving or operating",
+      "partOfSpeech": "verb",
+      "pronunciation": "/stɒp/",
+      "examples": [
+        "Please stop talking.",
+        "The bus stopped at the corner.",
+        "She stopped smoking last year."
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "başlamak",
+      "definition": "To begin doing something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/stɑːrt/",
+      "examples": [
+        "Let's start the meeting.",
+        "School starts at nine.",
+        "She started a new job."
+      ]
+    },
+    {
+      "word": "learn",
+      "meaning": "öğrenmek",
+      "definition": "To gain knowledge or skill",
+      "partOfSpeech": "verb",
+      "pronunciation": "/lɜːrn/",
+      "examples": [
+        "I want to learn English.",
+        "She learns something new every day.",
+        "He learned to cook last year."
+      ]
+    },
+    {
+      "word": "drink",
+      "meaning": "içmek",
+      "definition": "To take a liquid into the body through the mouth",
+      "partOfSpeech": "verb",
+      "pronunciation": "/drɪŋk/",
+      "examples": [
+        "I drink coffee every morning.",
+        "She drinks a lot of water.",
+        "Would you like something to drink?"
+      ]
+    },
+    {
+      "word": "cook",
+      "meaning": "pişirmek",
+      "definition": "To prepare food by heating it",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kʊk/",
+      "examples": [
+        "She cooks dinner every evening.",
+        "I can cook pasta.",
+        "He loves to cook for his family."
+      ]
+    },
+    {
+      "word": "money",
+      "meaning": "para",
+      "definition": "Coins or banknotes used to buy things",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈmʌn.i/",
+      "examples": [
+        "I don't have enough money.",
+        "She saves money every month.",
+        "Money can't buy happiness."
+      ]
     }
   ],
   "A2": [
@@ -840,6 +1728,618 @@
         "I recently started a new job.",
         "She recently moved to London.",
         "Have you traveled recently?"
+      ]
+    },
+    {
+      "word": "accept",
+      "meaning": "kabul etmek",
+      "definition": "To agree to take something offered",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əkˈsept/",
+      "examples": [
+        "She accepted the invitation.",
+        "I accept your apology.",
+        "He was accepted into university."
+      ]
+    },
+    {
+      "word": "afraid",
+      "meaning": "korkmak",
+      "definition": "Feeling fear or anxiety",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/əˈfreɪd/",
+      "examples": [
+        "She is afraid of spiders.",
+        "Don't be afraid of making mistakes.",
+        "I'm afraid I can't come."
+      ]
+    },
+    {
+      "word": "agree",
+      "meaning": "katılmak",
+      "definition": "To have the same opinion",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈɡriː/",
+      "examples": [
+        "I agree with you.",
+        "They agreed on a price.",
+        "We all agreed to help."
+      ]
+    },
+    {
+      "word": "appear",
+      "meaning": "görünmek",
+      "definition": "To come into sight",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈpɪr/",
+      "examples": [
+        "A rainbow appeared in the sky.",
+        "She appeared at the door.",
+        "He appears to be happy."
+      ]
+    },
+    {
+      "word": "avoid",
+      "meaning": "kaçınmak",
+      "definition": "To keep away from something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈvɔɪd/",
+      "examples": [
+        "She avoids eating sugar.",
+        "Try to avoid mistakes.",
+        "He avoided the question."
+      ]
+    },
+    {
+      "word": "borrow",
+      "meaning": "ödünç almak",
+      "definition": "To take and use something temporarily",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈbɒr.oʊ/",
+      "examples": [
+        "Can I borrow your pen?",
+        "She borrowed books from the library.",
+        "He borrowed money from his friend."
+      ]
+    },
+    {
+      "word": "calm",
+      "meaning": "sakin",
+      "definition": "Not showing or feeling nervousness",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/kɑːm/",
+      "examples": [
+        "Stay calm and don't panic.",
+        "The sea was calm today.",
+        "She spoke in a calm voice."
+      ]
+    },
+    {
+      "word": "complain",
+      "meaning": "şikayet etmek",
+      "definition": "To express dissatisfaction",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kəmˈpleɪn/",
+      "examples": [
+        "She complained about the noise.",
+        "Don't complain all the time.",
+        "He complained to the manager."
+      ]
+    },
+    {
+      "word": "deliver",
+      "meaning": "teslim etmek",
+      "definition": "To bring to a destination",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈlɪv.ər/",
+      "examples": [
+        "They deliver the package tomorrow.",
+        "She delivered the speech perfectly.",
+        "The mail is delivered every morning."
+      ]
+    },
+    {
+      "word": "discover",
+      "meaning": "keşfetmek",
+      "definition": "To find something for the first time",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈskʌv.ər/",
+      "examples": [
+        "Columbus discovered America.",
+        "She discovered a new restaurant.",
+        "I discovered the truth."
+      ]
+    },
+    {
+      "word": "earn",
+      "meaning": "kazanmak",
+      "definition": "To receive money for work",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɜːrn/",
+      "examples": [
+        "She earns a good salary.",
+        "He earned respect from everyone.",
+        "I want to earn my own money."
+      ]
+    },
+    {
+      "word": "education",
+      "meaning": "eğitim",
+      "definition": "The process of learning at school",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌedʒ.uˈkeɪ.ʃən/",
+      "examples": [
+        "Education is very important.",
+        "She received a good education.",
+        "Free education should be available to all."
+      ]
+    },
+    {
+      "word": "fail",
+      "meaning": "başarısız olmak",
+      "definition": "To not succeed",
+      "partOfSpeech": "verb",
+      "pronunciation": "/feɪl/",
+      "examples": [
+        "She failed the exam.",
+        "Don't be afraid to fail.",
+        "The plan failed completely."
+      ]
+    },
+    {
+      "word": "foreign",
+      "meaning": "yabancı",
+      "definition": "Relating to another country",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈfɒr.ən/",
+      "examples": [
+        "She speaks three foreign languages.",
+        "Foreign food is interesting to try.",
+        "He traveled to many foreign countries."
+      ]
+    },
+    {
+      "word": "guess",
+      "meaning": "tahmin etmek",
+      "definition": "To estimate without enough information",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɡes/",
+      "examples": [
+        "Can you guess the answer?",
+        "I guessed correctly.",
+        "Guess what happened today!"
+      ]
+    },
+    {
+      "word": "hurry",
+      "meaning": "acele etmek",
+      "definition": "To move or act quickly",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈhʌr.i/",
+      "examples": [
+        "Hurry up or we'll be late.",
+        "She hurried to catch the bus.",
+        "There's no need to hurry."
+      ]
+    },
+    {
+      "word": "include",
+      "meaning": "dahil etmek",
+      "definition": "To contain as part of something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪnˈkluːd/",
+      "examples": [
+        "The price includes breakfast.",
+        "The list includes ten items.",
+        "Please include me in the group."
+      ]
+    },
+    {
+      "word": "invite",
+      "meaning": "davet etmek",
+      "definition": "To ask someone to come to an event",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪnˈvaɪt/",
+      "examples": [
+        "She invited me to her party.",
+        "I'd like to invite you for dinner.",
+        "He was invited to the meeting."
+      ]
+    },
+    {
+      "word": "join",
+      "meaning": "katılmak",
+      "definition": "To become a member of a group",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dʒɔɪn/",
+      "examples": [
+        "She joined the gym last week.",
+        "Would you like to join us?",
+        "He joined the company in 2020."
+      ]
+    },
+    {
+      "word": "journey",
+      "meaning": "yolculuk",
+      "definition": "An act of traveling from one place to another",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈdʒɜːr.ni/",
+      "examples": [
+        "The journey took five hours.",
+        "Life is a long journey.",
+        "She enjoyed the journey by train."
+      ]
+    },
+    {
+      "word": "knowledge",
+      "meaning": "bilgi",
+      "definition": "Information and understanding about a subject",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈnɒl.ɪdʒ/",
+      "examples": [
+        "Knowledge is power.",
+        "She has great knowledge of history.",
+        "He gained knowledge from experience."
+      ]
+    },
+    {
+      "word": "manage",
+      "meaning": "yönetmek",
+      "definition": "To be in charge of something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈmæn.ɪdʒ/",
+      "examples": [
+        "She manages a team of ten people.",
+        "He managed to finish on time.",
+        "Can you manage by yourself?"
+      ]
+    },
+    {
+      "word": "offer",
+      "meaning": "teklif etmek",
+      "definition": "To present something for acceptance",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈɒf.ər/",
+      "examples": [
+        "He offered me a cup of tea.",
+        "She offered to help with the work.",
+        "They offered a good price."
+      ]
+    },
+    {
+      "word": "polite",
+      "meaning": "kibar",
+      "definition": "Having good manners",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/pəˈlaɪt/",
+      "examples": [
+        "She is always polite to everyone.",
+        "It's polite to say thank you.",
+        "He gave a polite smile."
+      ]
+    },
+    {
+      "word": "promise",
+      "meaning": "söz vermek",
+      "definition": "To tell someone you will certainly do something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈprɒm.ɪs/",
+      "examples": [
+        "She promised to call me.",
+        "I promise I won't be late.",
+        "He kept his promise."
+      ]
+    },
+    {
+      "word": "proud",
+      "meaning": "gururlu",
+      "definition": "Feeling happy about your achievements",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/praʊd/",
+      "examples": [
+        "I am proud of you.",
+        "She is proud of her work.",
+        "His parents are very proud."
+      ]
+    },
+    {
+      "word": "reply",
+      "meaning": "cevap vermek",
+      "definition": "To say something in response",
+      "partOfSpeech": "verb",
+      "pronunciation": "/rɪˈplaɪ/",
+      "examples": [
+        "She replied to my email.",
+        "He didn't reply to my question.",
+        "Please reply as soon as possible."
+      ]
+    },
+    {
+      "word": "search",
+      "meaning": "aramak",
+      "definition": "To look for something carefully",
+      "partOfSpeech": "verb",
+      "pronunciation": "/sɜːrtʃ/",
+      "examples": [
+        "She searched for her keys.",
+        "I searched the internet for information.",
+        "Police searched the building."
+      ]
+    },
+    {
+      "word": "share",
+      "meaning": "paylaşmak",
+      "definition": "To give part of something to others",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ʃer/",
+      "examples": [
+        "She shared her food with me.",
+        "Let's share this pizza.",
+        "He doesn't like to share."
+      ]
+    },
+    {
+      "word": "similar",
+      "meaning": "benzer",
+      "definition": "Resembling without being identical",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈsɪm.ɪ.lər/",
+      "examples": [
+        "Our ideas are very similar.",
+        "She looks similar to her mother.",
+        "The two books are similar."
+      ]
+    },
+    {
+      "word": "skill",
+      "meaning": "beceri",
+      "definition": "The ability to do something well",
+      "partOfSpeech": "noun",
+      "pronunciation": "/skɪl/",
+      "examples": [
+        "She has excellent cooking skills.",
+        "Reading is an important skill.",
+        "He developed new skills at work."
+      ]
+    },
+    {
+      "word": "solve",
+      "meaning": "çözmek",
+      "definition": "To find an answer to a problem",
+      "partOfSpeech": "verb",
+      "pronunciation": "/sɒlv/",
+      "examples": [
+        "She solved the puzzle quickly.",
+        "We need to solve this problem.",
+        "He solved the mystery."
+      ]
+    },
+    {
+      "word": "spend",
+      "meaning": "harcamak",
+      "definition": "To use time or money",
+      "partOfSpeech": "verb",
+      "pronunciation": "/spend/",
+      "examples": [
+        "She spends a lot on clothes.",
+        "I spent the day at home.",
+        "Don't spend too much money."
+      ]
+    },
+    {
+      "word": "support",
+      "meaning": "desteklemek",
+      "definition": "To give help or encouragement",
+      "partOfSpeech": "verb",
+      "pronunciation": "/səˈpɔːrt/",
+      "examples": [
+        "She supports her family.",
+        "I support your decision.",
+        "Friends support each other."
+      ]
+    },
+    {
+      "word": "trust",
+      "meaning": "güvenmek",
+      "definition": "To believe in the reliability of someone",
+      "partOfSpeech": "verb",
+      "pronunciation": "/trʌst/",
+      "examples": [
+        "I trust you completely.",
+        "She trusts her best friend.",
+        "It takes time to build trust."
+      ]
+    },
+    {
+      "word": "warn",
+      "meaning": "uyarmak",
+      "definition": "To inform someone of possible danger",
+      "partOfSpeech": "verb",
+      "pronunciation": "/wɔːrn/",
+      "examples": [
+        "She warned me about the traffic.",
+        "I warned you not to go there.",
+        "The sign warns of danger."
+      ]
+    },
+    {
+      "word": "worry",
+      "meaning": "endişelenmek",
+      "definition": "To feel anxious about something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈwʌr.i/",
+      "examples": [
+        "Don't worry about the exam.",
+        "She worries too much.",
+        "I'm worried about my health."
+      ]
+    },
+    {
+      "word": "toward",
+      "meaning": "doğru",
+      "definition": "In the direction of",
+      "partOfSpeech": "preposition",
+      "pronunciation": "/tɔːrd/",
+      "examples": [
+        "She walked toward the door.",
+        "We are moving toward our goal.",
+        "He turned toward me and smiled."
+      ]
+    },
+    {
+      "word": "allow",
+      "meaning": "izin vermek",
+      "definition": "To permit something to happen",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈlaʊ/",
+      "examples": [
+        "Smoking is not allowed here.",
+        "She allowed him to go.",
+        "The rules allow for exceptions."
+      ]
+    },
+    {
+      "word": "arrive",
+      "meaning": "varmak",
+      "definition": "To reach a place at the end of a journey",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈraɪv/",
+      "examples": [
+        "She arrived at the airport.",
+        "The train arrives at six.",
+        "When did you arrive?"
+      ]
+    },
+    {
+      "word": "begin",
+      "meaning": "başlamak",
+      "definition": "To start doing something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/bɪˈɡɪn/",
+      "examples": [
+        "The show begins at eight.",
+        "She began to cry.",
+        "Let's begin the lesson."
+      ]
+    },
+    {
+      "word": "describe",
+      "meaning": "tanımlamak",
+      "definition": "To give details about what something is like",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈskraɪb/",
+      "examples": [
+        "Can you describe the problem?",
+        "She described the scene in detail.",
+        "He described his feelings."
+      ]
+    },
+    {
+      "word": "discuss",
+      "meaning": "tartışmak",
+      "definition": "To talk about something with other people",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈskʌs/",
+      "examples": [
+        "We need to discuss this matter.",
+        "They discussed the plan.",
+        "Let's discuss it tomorrow."
+      ]
+    },
+    {
+      "word": "expect",
+      "meaning": "beklemek",
+      "definition": "To think something will happen",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪkˈspekt/",
+      "examples": [
+        "I expect he will come.",
+        "She didn't expect the news.",
+        "We expect good results."
+      ]
+    },
+    {
+      "word": "magazine",
+      "meaning": "dergi",
+      "definition": "A publication with articles and pictures",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌmæɡ.əˈziːn/",
+      "examples": [
+        "She reads fashion magazines.",
+        "I bought a travel magazine.",
+        "The article was in a popular magazine."
+      ]
+    },
+    {
+      "word": "neighbor",
+      "meaning": "komşu",
+      "definition": "A person living next to you",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈneɪ.bər/",
+      "examples": [
+        "My neighbor is very friendly.",
+        "She talks to her neighbors a lot.",
+        "The neighbors were very helpful."
+      ]
+    },
+    {
+      "word": "decide",
+      "meaning": "karar vermek",
+      "definition": "To make a choice from alternatives",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈsaɪd/",
+      "examples": [
+        "I decided to stay home.",
+        "She can't decide which dress to wear.",
+        "We need to decide quickly."
+      ]
+    },
+    {
+      "word": "necessary",
+      "meaning": "gerekli",
+      "definition": "Needed for a particular purpose",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈnes.ə.ser.i/",
+      "examples": [
+        "It's necessary to study hard.",
+        "Is this really necessary?",
+        "She took the necessary steps."
+      ]
+    },
+    {
+      "word": "completely",
+      "meaning": "tamamen",
+      "definition": "Totally; in every way",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/kəmˈpliːt.li/",
+      "examples": [
+        "I completely agree with you.",
+        "She completely forgot about it.",
+        "The house was completely destroyed."
+      ]
+    },
+    {
+      "word": "couple",
+      "meaning": "çift",
+      "definition": "Two people or things",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈkʌp.əl/",
+      "examples": [
+        "A young couple moved in next door.",
+        "I need a couple of minutes.",
+        "They are a lovely couple."
+      ]
+    },
+    {
+      "word": "especially",
+      "meaning": "özellikle",
+      "definition": "To a great extent; particularly",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ɪˈspeʃ.ə.li/",
+      "examples": [
+        "I love fruit, especially oranges.",
+        "It's especially cold today.",
+        "She is especially good at math."
       ]
     }
   ],
@@ -1263,6 +2763,534 @@
         "She is an effective communicator.",
         "The treatment was effective."
       ]
+    },
+    {
+      "word": "apologize",
+      "meaning": "özür dilemek",
+      "definition": "To express regret for something wrong",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈpɒl.ə.dʒaɪz/",
+      "examples": [
+        "He apologized for being late.",
+        "She apologized to her friend.",
+        "I must apologize for the mistake."
+      ]
+    },
+    {
+      "word": "attitude",
+      "meaning": "tutum",
+      "definition": "A settled way of thinking or feeling",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈæt.ɪ.tjuːd/",
+      "examples": [
+        "She has a positive attitude.",
+        "His attitude toward work is admirable.",
+        "Attitude determines success."
+      ]
+    },
+    {
+      "word": "atmosphere",
+      "meaning": "atmosfer",
+      "definition": "The envelope of gases surrounding the earth",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈæt.mə.sfɪr/",
+      "examples": [
+        "The atmosphere was very friendly.",
+        "The restaurant had a romantic atmosphere.",
+        "Earth's atmosphere protects us from the sun."
+      ]
+    },
+    {
+      "word": "belong",
+      "meaning": "ait olmak",
+      "definition": "To be a member of a group",
+      "partOfSpeech": "verb",
+      "pronunciation": "/bɪˈlɒŋ/",
+      "examples": [
+        "This book belongs to me.",
+        "She belongs to a sports club.",
+        "Everyone needs to belong somewhere."
+      ]
+    },
+    {
+      "word": "benefit",
+      "meaning": "fayda",
+      "definition": "An advantage or profit gained",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈben.ɪ.fɪt/",
+      "examples": [
+        "Exercise has many health benefits.",
+        "She benefited from the training.",
+        "What are the benefits of this plan?"
+      ]
+    },
+    {
+      "word": "communicate",
+      "meaning": "iletişim kurmak",
+      "definition": "To share information with others",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kəˈmjuː.nɪ.keɪt/",
+      "examples": [
+        "We communicate by email.",
+        "It's important to communicate clearly.",
+        "She communicates well with children."
+      ]
+    },
+    {
+      "word": "compare",
+      "meaning": "karşılaştırmak",
+      "definition": "To examine similarities and differences",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kəmˈper/",
+      "examples": [
+        "Don't compare yourself to others.",
+        "She compared the two products.",
+        "Let's compare prices before buying."
+      ]
+    },
+    {
+      "word": "concern",
+      "meaning": "endişe",
+      "definition": "A matter of interest or importance",
+      "partOfSpeech": "noun",
+      "pronunciation": "/kənˈsɜːrn/",
+      "examples": [
+        "Safety is our main concern.",
+        "She expressed concern about his health.",
+        "There is no cause for concern."
+      ]
+    },
+    {
+      "word": "confident",
+      "meaning": "kendine güvenen",
+      "definition": "Feeling sure of yourself",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈkɒn.fɪ.dənt/",
+      "examples": [
+        "She is confident in her abilities.",
+        "He felt confident about the exam.",
+        "A confident leader inspires trust."
+      ]
+    },
+    {
+      "word": "consider",
+      "meaning": "düşünmek",
+      "definition": "To think carefully about something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kənˈsɪd.ər/",
+      "examples": [
+        "Please consider my proposal.",
+        "She considered all the options.",
+        "I consider him a good friend."
+      ]
+    },
+    {
+      "word": "curious",
+      "meaning": "meraklı",
+      "definition": "Eager to know or learn something",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈkjʊr.i.əs/",
+      "examples": [
+        "Children are naturally curious.",
+        "I'm curious about her story.",
+        "He gave me a curious look."
+      ]
+    },
+    {
+      "word": "decrease",
+      "meaning": "azalmak",
+      "definition": "To become smaller or fewer",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈkriːs/",
+      "examples": [
+        "Sales decreased by ten percent.",
+        "The population is decreasing.",
+        "We need to decrease our expenses."
+      ]
+    },
+    {
+      "word": "determine",
+      "meaning": "belirlemek",
+      "definition": "To decide or establish something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈtɜːr.mɪn/",
+      "examples": [
+        "She is determined to succeed.",
+        "The test will determine your level.",
+        "We need to determine the cause."
+      ]
+    },
+    {
+      "word": "equipment",
+      "meaning": "ekipman",
+      "definition": "The necessary items for a particular purpose",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ɪˈkwɪp.mənt/",
+      "examples": [
+        "We need new office equipment.",
+        "Sports equipment is expensive.",
+        "The hospital has modern equipment."
+      ]
+    },
+    {
+      "word": "establish",
+      "meaning": "kurmak",
+      "definition": "To set up on a permanent basis",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪˈstæb.lɪʃ/",
+      "examples": [
+        "She established her own business.",
+        "The school was established in 1950.",
+        "They established a good relationship."
+      ]
+    },
+    {
+      "word": "experiment",
+      "meaning": "deney",
+      "definition": "A scientific procedure to test a hypothesis",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ɪkˈsper.ɪ.mənt/",
+      "examples": [
+        "The experiment was a success.",
+        "She conducted an experiment in the lab.",
+        "Let's try an experiment."
+      ]
+    },
+    {
+      "word": "explore",
+      "meaning": "keşfetmek",
+      "definition": "To travel through an unfamiliar area to learn about it",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪkˈsplɔːr/",
+      "examples": [
+        "They explored the ancient ruins.",
+        "She loves to explore new places.",
+        "Let's explore the possibilities."
+      ]
+    },
+    {
+      "word": "identify",
+      "meaning": "tanımlamak",
+      "definition": "To recognize or establish who or what someone is",
+      "partOfSpeech": "verb",
+      "pronunciation": "/aɪˈden.tɪ.faɪ/",
+      "examples": [
+        "She identified the problem quickly.",
+        "Can you identify this plant?",
+        "He identified himself as a doctor."
+      ]
+    },
+    {
+      "word": "ignore",
+      "meaning": "görmezden gelmek",
+      "definition": "To refuse to take notice of",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪɡˈnɔːr/",
+      "examples": [
+        "Don't ignore the warning signs.",
+        "She ignored my advice.",
+        "He chose to ignore the criticism."
+      ]
+    },
+    {
+      "word": "imagine",
+      "meaning": "hayal etmek",
+      "definition": "To form a mental image of something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪˈmædʒ.ɪn/",
+      "examples": [
+        "Imagine a world without war.",
+        "I can't imagine life without music.",
+        "She imagined herself as a famous singer."
+      ]
+    },
+    {
+      "word": "increase",
+      "meaning": "artmak",
+      "definition": "To become or make greater in size",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪnˈkriːs/",
+      "examples": [
+        "Prices have increased significantly.",
+        "The company increased production.",
+        "Her confidence increased over time."
+      ]
+    },
+    {
+      "word": "involve",
+      "meaning": "içermek",
+      "definition": "To include as a necessary part",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪnˈvɒlv/",
+      "examples": [
+        "The job involves a lot of travel.",
+        "She got involved in community work.",
+        "Don't involve me in your problems."
+      ]
+    },
+    {
+      "word": "measure",
+      "meaning": "ölçmek",
+      "definition": "To find the size, amount, or degree of something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈmeʒ.ər/",
+      "examples": [
+        "She measured the room carefully.",
+        "We need to measure the impact.",
+        "Success is hard to measure."
+      ]
+    },
+    {
+      "word": "mention",
+      "meaning": "bahsetmek",
+      "definition": "To refer to something briefly",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈmen.ʃən/",
+      "examples": [
+        "She mentioned your name.",
+        "Don't mention it, it was nothing.",
+        "He didn't mention the problem."
+      ]
+    },
+    {
+      "word": "obtain",
+      "meaning": "elde etmek",
+      "definition": "To get or acquire something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əbˈteɪn/",
+      "examples": [
+        "She obtained a scholarship.",
+        "How did you obtain this information?",
+        "It's difficult to obtain permission."
+      ]
+    },
+    {
+      "word": "opinion",
+      "meaning": "görüş",
+      "definition": "A view or judgment about something",
+      "partOfSpeech": "noun",
+      "pronunciation": "/əˈpɪn.jən/",
+      "examples": [
+        "In my opinion, this is the best option.",
+        "Everyone has a different opinion.",
+        "She never shares her opinion."
+      ]
+    },
+    {
+      "word": "organize",
+      "meaning": "organize etmek",
+      "definition": "To arrange systematically",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈɔːr.ɡə.naɪz/",
+      "examples": [
+        "She organized a charity event.",
+        "I need to organize my desk.",
+        "He is very organized at work."
+      ]
+    },
+    {
+      "word": "prevent",
+      "meaning": "önlemek",
+      "definition": "To keep something from happening",
+      "partOfSpeech": "verb",
+      "pronunciation": "/prɪˈvent/",
+      "examples": [
+        "Vaccines prevent diseases.",
+        "We must prevent pollution.",
+        "She prevented the accident."
+      ]
+    },
+    {
+      "word": "purpose",
+      "meaning": "amaç",
+      "definition": "The reason for which something is done",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈpɜːr.pəs/",
+      "examples": [
+        "What is the purpose of this meeting?",
+        "She has a strong sense of purpose.",
+        "He did it on purpose."
+      ]
+    },
+    {
+      "word": "reduce",
+      "meaning": "azaltmak",
+      "definition": "To make smaller in size or amount",
+      "partOfSpeech": "verb",
+      "pronunciation": "/rɪˈdjuːs/",
+      "examples": [
+        "We need to reduce costs.",
+        "She reduced her sugar intake.",
+        "The company reduced working hours."
+      ]
+    },
+    {
+      "word": "require",
+      "meaning": "gerektirmek",
+      "definition": "To need something for a purpose",
+      "partOfSpeech": "verb",
+      "pronunciation": "/rɪˈkwaɪər/",
+      "examples": [
+        "This job requires experience.",
+        "All students are required to attend.",
+        "The recipe requires fresh herbs."
+      ]
+    },
+    {
+      "word": "respect",
+      "meaning": "saygı",
+      "definition": "A feeling of admiration for someone",
+      "partOfSpeech": "noun",
+      "pronunciation": "/rɪˈspekt/",
+      "examples": [
+        "She treats everyone with respect.",
+        "He earned the respect of his colleagues.",
+        "Respect is very important in any relationship."
+      ]
+    },
+    {
+      "word": "account",
+      "meaning": "hesap",
+      "definition": "A record of financial transactions",
+      "partOfSpeech": "noun",
+      "pronunciation": "/əˈkaʊnt/",
+      "examples": [
+        "I opened a bank account.",
+        "She created an email account.",
+        "Take this into account."
+      ]
+    },
+    {
+      "word": "approach",
+      "meaning": "yaklaşmak",
+      "definition": "To come near to someone or something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈproʊtʃ/",
+      "examples": [
+        "She approached the problem carefully.",
+        "A stranger approached me.",
+        "We need a new approach."
+      ]
+    },
+    {
+      "word": "challenge",
+      "meaning": "meydan okuma",
+      "definition": "Something that tests your abilities",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈtʃæl.ɪndʒ/",
+      "examples": [
+        "Learning a language is a challenge.",
+        "She accepted the challenge.",
+        "This is the biggest challenge of my career."
+      ]
+    },
+    {
+      "word": "contribute",
+      "meaning": "katkıda bulunmak",
+      "definition": "To give something to help achieve something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kənˈtrɪb.juːt/",
+      "examples": [
+        "She contributes to charity regularly.",
+        "Everyone contributed ideas.",
+        "Exercise contributes to good health."
+      ]
+    },
+    {
+      "word": "convince",
+      "meaning": "ikna etmek",
+      "definition": "To make someone agree with you",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kənˈvɪns/",
+      "examples": [
+        "She convinced me to go.",
+        "I'm not convinced by his argument.",
+        "He tried to convince his parents."
+      ]
+    },
+    {
+      "word": "doubt",
+      "meaning": "şüphe",
+      "definition": "A feeling of uncertainty",
+      "partOfSpeech": "noun",
+      "pronunciation": "/daʊt/",
+      "examples": [
+        "I have no doubt about it.",
+        "She expressed her doubts.",
+        "Without a doubt, he is the best."
+      ]
+    },
+    {
+      "word": "enormous",
+      "meaning": "devasa",
+      "definition": "Very large in size or amount",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪˈnɔːr.məs/",
+      "examples": [
+        "The building is enormous.",
+        "She made an enormous effort.",
+        "There was an enormous crowd."
+      ]
+    },
+    {
+      "word": "evidence",
+      "meaning": "kanıt",
+      "definition": "The available body of facts",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈev.ɪ.dəns/",
+      "examples": [
+        "There is no evidence of a crime.",
+        "The evidence supports the theory.",
+        "She presented strong evidence."
+      ]
+    },
+    {
+      "word": "maintain",
+      "meaning": "sürdürmek",
+      "definition": "To keep something in good condition",
+      "partOfSpeech": "verb",
+      "pronunciation": "/meɪnˈteɪn/",
+      "examples": [
+        "She maintains a healthy lifestyle.",
+        "The building is well maintained.",
+        "He maintained his innocence."
+      ]
+    },
+    {
+      "word": "obvious",
+      "meaning": "açık",
+      "definition": "Easily perceived or understood",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈɒb.vi.əs/",
+      "examples": [
+        "The answer is obvious.",
+        "It's obvious that she is tired.",
+        "He made an obvious mistake."
+      ]
+    },
+    {
+      "word": "plenty",
+      "meaning": "bol",
+      "definition": "A large or sufficient amount",
+      "partOfSpeech": "pronoun",
+      "pronunciation": "/ˈplen.ti/",
+      "examples": [
+        "We have plenty of time.",
+        "There is plenty of food.",
+        "She has plenty of experience."
+      ]
+    },
+    {
+      "word": "therefore",
+      "meaning": "bu nedenle",
+      "definition": "For that reason",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ˈðer.fɔːr/",
+      "examples": [
+        "She studied hard, therefore she passed.",
+        "It was raining, therefore we stayed in.",
+        "I think, therefore I am."
+      ]
     }
   ],
   "B2": [
@@ -1684,6 +3712,246 @@
         "The investment yielded good returns.",
         "These trees yield excellent fruit.",
         "The experiment yielded unexpected results."
+      ]
+    },
+    {
+      "word": "adequate",
+      "meaning": "yeterli",
+      "definition": "Sufficient for a specific requirement",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈæd.ɪ.kwət/",
+      "examples": [
+        "The food supply is adequate.",
+        "She received adequate training.",
+        "Is this room adequate for the meeting?"
+      ]
+    },
+    {
+      "word": "assert",
+      "meaning": "iddia etmek",
+      "definition": "To state a fact or belief confidently",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈsɜːrt/",
+      "examples": [
+        "She asserted her innocence.",
+        "He asserted his right to speak.",
+        "The lawyer asserted that the evidence was clear."
+      ]
+    },
+    {
+      "word": "bias",
+      "meaning": "önyargı",
+      "definition": "Prejudice in favor of or against something",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈbaɪ.əs/",
+      "examples": [
+        "The report showed a clear bias.",
+        "She tried to avoid bias in her research.",
+        "Media bias is a growing concern."
+      ]
+    },
+    {
+      "word": "compelling",
+      "meaning": "ikna edici",
+      "definition": "Evoking interest or admiration in a powerful way",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/kəmˈpel.ɪŋ/",
+      "examples": [
+        "She made a compelling argument.",
+        "The evidence was compelling.",
+        "It's a compelling story that keeps you reading."
+      ]
+    },
+    {
+      "word": "compensate",
+      "meaning": "telafi etmek",
+      "definition": "To make up for something unwelcome",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈkɒm.pen.seɪt/",
+      "examples": [
+        "Nothing can compensate for the loss.",
+        "She was compensated for the damage.",
+        "He tried to compensate by working harder."
+      ]
+    },
+    {
+      "word": "constraint",
+      "meaning": "kısıtlama",
+      "definition": "A limitation or restriction",
+      "partOfSpeech": "noun",
+      "pronunciation": "/kənˈstreɪnt/",
+      "examples": [
+        "Budget constraints limited the project.",
+        "She works well under constraints.",
+        "Time is the biggest constraint."
+      ]
+    },
+    {
+      "word": "convey",
+      "meaning": "iletmek",
+      "definition": "To transport or communicate",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kənˈveɪ/",
+      "examples": [
+        "Words cannot convey my gratitude.",
+        "She conveyed the message clearly.",
+        "The letter conveys his disappointment."
+      ]
+    },
+    {
+      "word": "devote",
+      "meaning": "adamak",
+      "definition": "To give time or resources to a purpose",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈvoʊt/",
+      "examples": [
+        "She devoted her life to teaching.",
+        "He devoted hours to research.",
+        "They are devoted to each other."
+      ]
+    },
+    {
+      "word": "diminish",
+      "meaning": "azaltmak",
+      "definition": "To make or become less",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈmɪn.ɪʃ/",
+      "examples": [
+        "Nothing can diminish her achievements.",
+        "The pain gradually diminished.",
+        "His influence has diminished over time."
+      ]
+    },
+    {
+      "word": "dominate",
+      "meaning": "hakim olmak",
+      "definition": "To have a commanding influence over",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈdɒm.ɪ.neɪt/",
+      "examples": [
+        "She dominated the conversation.",
+        "The team dominated the game.",
+        "Technology dominates our daily lives."
+      ]
+    },
+    {
+      "word": "emphasize",
+      "meaning": "vurgulamak",
+      "definition": "To give special importance to something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈem.fə.saɪz/",
+      "examples": [
+        "She emphasized the need for change.",
+        "I must emphasize this point.",
+        "The teacher emphasized the importance of practice."
+      ]
+    },
+    {
+      "word": "exclude",
+      "meaning": "hariç tutmak",
+      "definition": "To leave out or prevent from participating",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪkˈskluːd/",
+      "examples": [
+        "Don't exclude anyone from the group.",
+        "The price excludes tax.",
+        "She felt excluded from the discussion."
+      ]
+    },
+    {
+      "word": "impose",
+      "meaning": "dayatmak",
+      "definition": "To force something to be accepted",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪmˈpoʊz/",
+      "examples": [
+        "The government imposed new taxes.",
+        "Don't impose your views on others.",
+        "Strict rules were imposed."
+      ]
+    },
+    {
+      "word": "integrate",
+      "meaning": "entegre etmek",
+      "definition": "To combine two or more things to become more effective",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈɪn.tɪ.ɡreɪt/",
+      "examples": [
+        "They integrated technology into education.",
+        "She integrated well into the team.",
+        "We need to integrate these systems."
+      ]
+    },
+    {
+      "word": "notion",
+      "meaning": "kavram",
+      "definition": "A conception or idea about something",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈnoʊ.ʃən/",
+      "examples": [
+        "She rejected the notion entirely.",
+        "The notion of freedom varies across cultures.",
+        "He had a vague notion of what to do."
+      ]
+    },
+    {
+      "word": "perspective",
+      "meaning": "bakış açısı",
+      "definition": "A particular way of thinking about something",
+      "partOfSpeech": "noun",
+      "pronunciation": "/pərˈspek.tɪv/",
+      "examples": [
+        "She offers a unique perspective.",
+        "Try to see it from my perspective.",
+        "Traveling broadens your perspective."
+      ]
+    },
+    {
+      "word": "reinforce",
+      "meaning": "pekiştirmek",
+      "definition": "To strengthen or support",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˌriː.ɪnˈfɔːrs/",
+      "examples": [
+        "The training reinforced my skills.",
+        "She reinforced her argument with data.",
+        "Positive feedback reinforces good behavior."
+      ]
+    },
+    {
+      "word": "sustain",
+      "meaning": "sürdürmek",
+      "definition": "To maintain or support over a long period",
+      "partOfSpeech": "verb",
+      "pronunciation": "/səˈsteɪn/",
+      "examples": [
+        "She sustained her energy throughout the race.",
+        "We need to sustain economic growth.",
+        "The injury was difficult to sustain."
+      ]
+    },
+    {
+      "word": "trigger",
+      "meaning": "tetiklemek",
+      "definition": "To cause an event or situation to happen",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈtrɪɡ.ər/",
+      "examples": [
+        "The incident triggered a debate.",
+        "Stress can trigger health problems.",
+        "What triggered the alarm?"
+      ]
+    },
+    {
+      "word": "vulnerable",
+      "meaning": "savunmasız",
+      "definition": "Susceptible to harm or attack",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈvʌl.nər.ə.bəl/",
+      "examples": [
+        "Children are the most vulnerable group.",
+        "The system is vulnerable to attacks.",
+        "She felt vulnerable after the loss."
       ]
     }
   ],
@@ -2107,6 +4375,246 @@
         "Real estate can be very lucrative.",
         "That's a lucrative business opportunity."
       ]
+    },
+    {
+      "word": "articulate",
+      "meaning": "ifade etmek",
+      "definition": "To express an idea clearly",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɑːrˈtɪk.jə.leɪt/",
+      "examples": [
+        "She articulated her views clearly.",
+        "He is very articulate in meetings.",
+        "The report articulates the key findings."
+      ]
+    },
+    {
+      "word": "conducive",
+      "meaning": "elverişli",
+      "definition": "Making something possible or likely",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/kənˈdjuː.sɪv/",
+      "examples": [
+        "A quiet environment is conducive to studying.",
+        "The conditions are conducive to growth.",
+        "Good leadership is conducive to success."
+      ]
+    },
+    {
+      "word": "curtail",
+      "meaning": "kısaltmak",
+      "definition": "To reduce or restrict something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kɜːrˈteɪl/",
+      "examples": [
+        "The budget was curtailed significantly.",
+        "They curtailed freedoms during the crisis.",
+        "She curtailed her spending habits."
+      ]
+    },
+    {
+      "word": "deter",
+      "meaning": "caydırmak",
+      "definition": "To discourage someone from doing something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈtɜːr/",
+      "examples": [
+        "High prices deter many buyers.",
+        "Nothing could deter her from her goal.",
+        "The punishment deters criminal behavior."
+      ]
+    },
+    {
+      "word": "disparity",
+      "meaning": "eşitsizlik",
+      "definition": "A great difference",
+      "partOfSpeech": "noun",
+      "pronunciation": "/dɪˈspær.ə.ti/",
+      "examples": [
+        "There is a disparity in wages.",
+        "The disparity between rich and poor is growing.",
+        "Regional disparities need addressing."
+      ]
+    },
+    {
+      "word": "elicit",
+      "meaning": "ortaya çıkarmak",
+      "definition": "To draw out a response or fact",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪˈlɪs.ɪt/",
+      "examples": [
+        "Her speech elicited a strong reaction.",
+        "The question elicited an honest answer.",
+        "He tried to elicit sympathy."
+      ]
+    },
+    {
+      "word": "entail",
+      "meaning": "gerektirmek",
+      "definition": "To involve something as a necessary part",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪnˈteɪl/",
+      "examples": [
+        "The project entails a lot of research.",
+        "What does the job entail?",
+        "Success entails hard work."
+      ]
+    },
+    {
+      "word": "foster",
+      "meaning": "teşvik etmek",
+      "definition": "To encourage the development of something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈfɒs.tər/",
+      "examples": [
+        "They foster creativity in children.",
+        "The program fosters international cooperation.",
+        "She fostered a love of reading."
+      ]
+    },
+    {
+      "word": "hinder",
+      "meaning": "engellemek",
+      "definition": "To create difficulties for someone",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈhɪn.dər/",
+      "examples": [
+        "Bad weather hindered the rescue efforts.",
+        "Lack of funding hindered progress.",
+        "Don't let fear hinder your growth."
+      ]
+    },
+    {
+      "word": "inherent",
+      "meaning": "doğal",
+      "definition": "Existing as a natural part of something",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪnˈher.ənt/",
+      "examples": [
+        "There are inherent risks in every investment.",
+        "Creativity is inherent in human nature.",
+        "The plan has inherent flaws."
+      ]
+    },
+    {
+      "word": "mitigate",
+      "meaning": "hafifletmek",
+      "definition": "To make less severe or serious",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈmɪt.ɪ.ɡeɪt/",
+      "examples": [
+        "Steps were taken to mitigate the damage.",
+        "Trees help mitigate climate change.",
+        "Nothing can mitigate the loss."
+      ]
+    },
+    {
+      "word": "nuance",
+      "meaning": "nüans",
+      "definition": "A subtle difference in meaning",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈnjuː.ɑːns/",
+      "examples": [
+        "The translation lost many nuances.",
+        "She understands the nuances of the language.",
+        "There are subtle nuances in his argument."
+      ]
+    },
+    {
+      "word": "paramount",
+      "meaning": "en önemli",
+      "definition": "More important than anything else",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈpær.ə.maʊnt/",
+      "examples": [
+        "Safety is of paramount importance.",
+        "Customer satisfaction is paramount.",
+        "Education is paramount to development."
+      ]
+    },
+    {
+      "word": "plausible",
+      "meaning": "makul",
+      "definition": "Seeming reasonable or probable",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈplɔː.zɪ.bəl/",
+      "examples": [
+        "That's a plausible explanation.",
+        "His story sounded plausible.",
+        "There is no plausible alternative."
+      ]
+    },
+    {
+      "word": "resilient",
+      "meaning": "dayanıklı",
+      "definition": "Able to recover quickly from difficulties",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/rɪˈzɪl.i.ənt/",
+      "examples": [
+        "Children are remarkably resilient.",
+        "The economy proved resilient.",
+        "She is emotionally resilient."
+      ]
+    },
+    {
+      "word": "scrutiny",
+      "meaning": "inceleme",
+      "definition": "Critical observation or examination",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈskruː.tɪ.ni/",
+      "examples": [
+        "The proposal came under close scrutiny.",
+        "She couldn't withstand public scrutiny.",
+        "The data requires careful scrutiny."
+      ]
+    },
+    {
+      "word": "unanimous",
+      "meaning": "oybirliğiyle",
+      "definition": "Fully in agreement",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/juːˈnæn.ɪ.məs/",
+      "examples": [
+        "The decision was unanimous.",
+        "The jury reached a unanimous verdict.",
+        "There was unanimous support for the plan."
+      ]
+    },
+    {
+      "word": "volatile",
+      "meaning": "değişken",
+      "definition": "Liable to change rapidly and unpredictably",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈvɒl.ə.taɪl/",
+      "examples": [
+        "The stock market is volatile.",
+        "The political situation remains volatile.",
+        "Volatile chemicals require careful handling."
+      ]
+    },
+    {
+      "word": "indispensable",
+      "meaning": "vazgeçilmez",
+      "definition": "Absolutely necessary",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌɪn.dɪˈspen.sə.bəl/",
+      "examples": [
+        "Water is indispensable for life.",
+        "She has become indispensable to the team.",
+        "A good education is indispensable."
+      ]
+    },
+    {
+      "word": "transcend",
+      "meaning": "aşmak",
+      "definition": "To go beyond the limits of something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/trænˈsend/",
+      "examples": [
+        "Music transcends cultural boundaries.",
+        "Her talent transcends all expectations.",
+        "Love transcends language barriers."
+      ]
     }
   ],
   "C2": [
@@ -2528,6 +5036,246 @@
         "Not a vestige of the old building remained.",
         "The law is a vestige of a bygone era.",
         "She found vestiges of the ancient civilization."
+      ]
+    },
+    {
+      "word": "acquiesce",
+      "meaning": "boyun eğmek",
+      "definition": "To accept something reluctantly but without protest",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˌæk.wiˈes/",
+      "examples": [
+        "She acquiesced to her parents' wishes.",
+        "He reluctantly acquiesced to the demand.",
+        "The committee acquiesced in the decision."
+      ]
+    },
+    {
+      "word": "antithesis",
+      "meaning": "karşıtlık",
+      "definition": "A person or thing that is the direct opposite",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ænˈtɪθ.ə.sɪs/",
+      "examples": [
+        "She is the antithesis of her sister.",
+        "War is the antithesis of peace.",
+        "His behavior was the antithesis of professionalism."
+      ]
+    },
+    {
+      "word": "ascertain",
+      "meaning": "tespit etmek",
+      "definition": "To find out something for certain",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˌæs.ərˈteɪn/",
+      "examples": [
+        "Police are trying to ascertain the facts.",
+        "She ascertained the cause of the problem.",
+        "It's difficult to ascertain the truth."
+      ]
+    },
+    {
+      "word": "conspicuous",
+      "meaning": "göze çarpan",
+      "definition": "Standing out so as to be clearly visible",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/kənˈspɪk.ju.əs/",
+      "examples": [
+        "She was conspicuous by her absence.",
+        "The error was conspicuous to everyone.",
+        "He made a conspicuous effort to apologize."
+      ]
+    },
+    {
+      "word": "deleterious",
+      "meaning": "zararlı",
+      "definition": "Causing harm or damage",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌdel.ɪˈtɪr.i.əs/",
+      "examples": [
+        "Smoking has deleterious effects on health.",
+        "The policy had deleterious consequences.",
+        "Pollution has a deleterious impact on wildlife."
+      ]
+    },
+    {
+      "word": "egregious",
+      "meaning": "korkunç",
+      "definition": "Outstandingly bad; shocking",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪˈɡriː.dʒi.əs/",
+      "examples": [
+        "It was an egregious error of judgment.",
+        "The egregious violation was reported.",
+        "She made an egregious mistake."
+      ]
+    },
+    {
+      "word": "elucidate",
+      "meaning": "aydınlatmak",
+      "definition": "To make something clear; to explain",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪˈluː.sɪ.deɪt/",
+      "examples": [
+        "Can you elucidate your position?",
+        "The scientist elucidated the theory.",
+        "Further research is needed to elucidate the mechanism."
+      ]
+    },
+    {
+      "word": "exorbitant",
+      "meaning": "aşırı",
+      "definition": "Unreasonably high in price",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪɡˈzɔːr.bɪ.tənt/",
+      "examples": [
+        "The hotel charges exorbitant prices.",
+        "She refused to pay the exorbitant fee.",
+        "Exorbitant rents are driving people away."
+      ]
+    },
+    {
+      "word": "facetious",
+      "meaning": "şakacı",
+      "definition": "Treating serious issues with inappropriate humor",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/fəˈsiː.ʃəs/",
+      "examples": [
+        "He was being facetious, not serious.",
+        "She made a facetious remark during the meeting.",
+        "Try not to be facetious about this."
+      ]
+    },
+    {
+      "word": "impetuous",
+      "meaning": "düşüncesiz",
+      "definition": "Acting quickly without thought",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪmˈpetʃ.u.əs/",
+      "examples": [
+        "He made an impetuous decision.",
+        "Her impetuous nature often got her into trouble.",
+        "Don't be so impetuous; think before you act."
+      ]
+    },
+    {
+      "word": "inexorable",
+      "meaning": "durdurulamaz",
+      "definition": "Impossible to stop or prevent",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ɪnˈek.sər.ə.bəl/",
+      "examples": [
+        "The inexorable march of time.",
+        "Climate change seems inexorable.",
+        "She was inexorable in her pursuit of justice."
+      ]
+    },
+    {
+      "word": "meticulous",
+      "meaning": "titiz",
+      "definition": "Showing great attention to detail",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/məˈtɪk.jə.ləs/",
+      "examples": [
+        "She is meticulous in her work.",
+        "The research was meticulous.",
+        "He kept meticulous records of every transaction."
+      ]
+    },
+    {
+      "word": "ostentatious",
+      "meaning": "gösterişli",
+      "definition": "Designed to impress or attract notice",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌɒs.tenˈteɪ.ʃəs/",
+      "examples": [
+        "His ostentatious lifestyle attracted attention.",
+        "She wore an ostentatious diamond necklace.",
+        "The party was ostentatious and extravagant."
+      ]
+    },
+    {
+      "word": "preclude",
+      "meaning": "engellemek",
+      "definition": "To prevent from happening",
+      "partOfSpeech": "verb",
+      "pronunciation": "/prɪˈkluːd/",
+      "examples": [
+        "Bad weather precluded any outdoor activity.",
+        "His age precludes him from joining the army.",
+        "This doesn't preclude other possibilities."
+      ]
+    },
+    {
+      "word": "propensity",
+      "meaning": "eğilim",
+      "definition": "A natural tendency to behave in a particular way",
+      "partOfSpeech": "noun",
+      "pronunciation": "/prəˈpen.sə.ti/",
+      "examples": [
+        "She has a propensity for exaggeration.",
+        "He showed a propensity for violence.",
+        "Humans have a propensity for curiosity."
+      ]
+    },
+    {
+      "word": "repudiate",
+      "meaning": "reddetmek",
+      "definition": "To refuse to accept or be associated with",
+      "partOfSpeech": "verb",
+      "pronunciation": "/rɪˈpjuː.di.eɪt/",
+      "examples": [
+        "She repudiated the allegations.",
+        "The government repudiated the treaty.",
+        "He repudiated all responsibility for the error."
+      ]
+    },
+    {
+      "word": "tantamount",
+      "meaning": "eşdeğer",
+      "definition": "Equivalent in seriousness to; virtually the same as",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈtæn.tə.maʊnt/",
+      "examples": [
+        "His silence was tantamount to an admission of guilt.",
+        "The offer is tantamount to an insult.",
+        "Ignoring the problem is tantamount to accepting it."
+      ]
+    },
+    {
+      "word": "unequivocal",
+      "meaning": "kesin",
+      "definition": "Leaving no doubt; unambiguous",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˌʌn.ɪˈkwɪv.ə.kəl/",
+      "examples": [
+        "She gave an unequivocal answer.",
+        "The evidence is unequivocal.",
+        "He made an unequivocal statement of support."
+      ]
+    },
+    {
+      "word": "cogent",
+      "meaning": "ikna edici",
+      "definition": "Clear, logical, and convincing",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈkoʊ.dʒənt/",
+      "examples": [
+        "She presented a cogent argument.",
+        "His reasoning was cogent and well-structured.",
+        "The report provided cogent evidence."
+      ]
+    },
+    {
+      "word": "supplant",
+      "meaning": "yerini almak",
+      "definition": "To take the place of something",
+      "partOfSpeech": "verb",
+      "pronunciation": "/səˈplænt/",
+      "examples": [
+        "Digital media has supplanted print.",
+        "She was supplanted by a younger rival.",
+        "Technology supplanted traditional methods."
       ]
     }
   ]
