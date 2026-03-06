@@ -139,6 +139,8 @@
         const firstExample = wordData.examples && wordData.examples.length > 0 ? wordData.examples[0] : '';
         const extraExamples = hasExtraExamples ? wordData.examples.slice(1) : [];
 
+        const audioUrl = wordData.audio || '';
+
         card.innerHTML = `
             <div class="card-header">
                 <div class="word-main">
@@ -146,7 +148,10 @@
                         ${wordData.word}
                         <span class="level-badge ${currentLevel}">${currentLevel}</span>
                     </div>
-                    <div class="word-pronunciation">${wordData.pronunciation || ''}</div>
+                    <div class="word-pronunciation">
+                        ${wordData.pronunciation || ''}
+                        ${audioUrl ? `<button class="audio-btn" title="Telaffuzu dinle" data-audio="${audioUrl}">🔊</button>` : ''}
+                    </div>
                     <span class="word-pos">${wordData.partOfSpeech || ''}</span>
                 </div>
                 <button class="refresh-btn" title="Bu kelimeyi değiştir" data-index="${dbIndex}">🔄</button>
@@ -187,6 +192,21 @@
         // Bind refresh button
         const refreshBtn = card.querySelector('.refresh-btn');
         refreshBtn.addEventListener('click', () => refreshWord(card, dbIndex));
+
+        // Bind audio button
+        const audioBtn = card.querySelector('.audio-btn');
+        if (audioBtn) {
+            audioBtn.addEventListener('click', () => {
+                const url = audioBtn.dataset.audio;
+                if (url) {
+                    const audio = new Audio(url);
+                    audioBtn.classList.add('playing');
+                    audio.play().catch(() => { });
+                    audio.addEventListener('ended', () => audioBtn.classList.remove('playing'));
+                    audio.addEventListener('error', () => audioBtn.classList.remove('playing'));
+                }
+            });
+        }
 
         // Bind toggle examples button
         const toggleBtn = card.querySelector('.toggle-examples-btn');
